@@ -38,7 +38,7 @@
         <div class="row">
             <?php foreach ($allPokemons as $pokemon) { ?>
             <div class="col-4 border">
-                <a href="index.php?url=details/<?= $pokemon['id'] ?>">
+                <a href="index.php?url=details/<?= $pokemon['id'] ?>" class="text-decoration-none text-dark">
                     <div class="row">
                         <div class="col">
                             <p><?= $pokemon['nom'] ?></p>

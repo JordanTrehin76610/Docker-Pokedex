@@ -12,7 +12,7 @@
 
 <body>
 
-    <div class="container text-center">
+    <div class="container text-center my-2">
             <a href="index.php" class="btn btn-primary">Retour à la liste des Pokémon</a>
     </div>
 
@@ -21,7 +21,7 @@
         <div class="row">
             <?php foreach ($typePokemons as $pokemon) { ?>
             <div class="col-4 border">
-                <a href="index.php?url=details/<?= $pokemon['id'] ?>">
+                <a href="index.php?url=details/<?= $pokemon['id'] ?>" class="text-decoration-none text-dark">
                     <div class="row">
                         <div class="col">
                             <p><?= $pokemon['nom'] ?></p>
