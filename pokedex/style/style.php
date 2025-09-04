@@ -1,5 +1,9 @@
 <?php
 
+
+if (!isset($pokemon)) return;
+
+
 if (isset($pokemon)) {
     // Ici tu mets tout le code qui dépend de $pokemon
     switch ($pokemon['type'][0]) {

@@ -1,3 +1,35 @@
+<?php
+
+// var_dump($_POST['type']);
+
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
+    if ($_POST['type'] != 'Tous') {
+        $redirection = 'index.php?url=type/' . $_POST["type"];
+        header("Location: $redirection");
+        exit;
+    }
+
+    if($_POST['generation'] != 'Toutes') {
+        $redirection = 'index.php?url=gen/' . $_POST["generation"];
+        header("Location: $redirection");
+        exit;
+    }
+
+    if(!empty($_POST['prenom'])) {
+
+        $redirection = 'index.php?url=prenom/' . ucfirst($_POST["prenom"]);
+        header("Location: $redirection");
+        exit;
+    }
+}
+
+$_POST['type'] = 'Tous';
+$_POST['generation'] = 'Toutes';
+
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -13,16 +45,17 @@
 
 <body class="police">
 
-    <h1 class="mt-5 text-center">Pokédex</h1>
-    <p class="fs-3 mb-3 text-center">Trie par type de pokémon</p>
+    <h1 class="mt-3 text-center">Pokédex</h1>
+    <p class="fs-3 text-center">Trie par type de pokémon</p>
+    <p class="fs-5 mb-3 text-center">Qu'un seul type de recherche à la fois !</p>
 
-    <form action="">
+    <form action="" method="post">
         <div class="container text-center mb-3">
             <div class="row">
                 <div class="col text-start">
                     <label for="type">Type du pokémon:</label>
                     <select id="type" name="type" class="form-control mt-2">
-                        <option value="All">Tous</option>
+                        <option value="Tous">Tous</option>
                         <option value="Plante">Plante</option>
                         <option value="Feu">Feu</option>
                         <option value="Eau">Eau</option>
@@ -42,6 +75,25 @@
                         <option value="Glace">Glace</option>
                         <option value="Dragon">Dragon</option>
                     </select>
+                </div>
+                <div class="col text-start">
+                    <label for="generation">Génération du pokémon:</label>
+                    <select id="generation" name="generation" class="form-control mt-2">
+                        <option value="Toutes">Toutes</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                    </select>
+                </div>
+                <div class="col text-start">
+                    <label for="prenom">Nom du pokémon:</label>
+                    <input type="text" class="form-control mt-2" id="prenom" name="prenom" placeholder="">
                 </div>
                 <div class="col">
                     <button type="submit" class="btn btn-primary mt-4">Rechercher</button>

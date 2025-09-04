@@ -38,7 +38,46 @@ class PokemonModel
         }
         return $filtered;
     }
-}
 
+    public function getByGen(int $gen) { //Trie les pokémons par génération
+        $json = file_get_contents($this->file);
+        $pokedex = json_decode($json, true);
+        foreach ($pokedex as $pokemon){
+
+            if ($pokemon['gen'] == $gen){
+
+                $filtered[] = $pokemon;
+
+            }
+
+        }
+        return $filtered;
+    }
+
+    public function getByName(string $name) {
+        $json = file_get_contents($this->file);
+        $pokedex = json_decode($json, true);
+        foreach ($pokedex as $pokemon){
+
+            if (strstr($pokemon['nom'],  $name)){ //Equivalent à IS LIKE en PHP
+
+                $filtered[] = $pokemon;
+
+            }
+
+        }
+
+        if (empty($filtered)) {
+
+            header("Location: pasPoke.php");
+            exit;
+
+        } else {
+
+        return $filtered;
+
+        }
+    }
+}
 
 ?>

@@ -22,7 +22,7 @@
 
     <div class="container text-center">
         <div class="row">
-            <?php foreach ($typePokemons as $pokemon) { ?>
+            <?php foreach ($genPokemons as $pokemon) { ?>
             <!-- Influence la variable $color et le type -->
             <?php require __DIR__ . "/../style/style.php"; ?>
             <div class="col-4 border border-dark <?= $color ?> ">
