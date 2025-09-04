@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Chewy&family=Coral+Pixels&family=Finger+Paint&family=Mouse+Memoirs&family=Rubik+Dirt&display=swap');
+
+.police {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bgFeu {
+    background-color: #E55F3D;
+    color: black;
+}
+
+.bgEau {
+    background-color: #329AE4;
+    color: black;
+}
+
+.bgPlante {
+    background-color: #439937;
+    color: black;
+}
+
+.bgInsecte {
+    background-color: #A1A028;
+    color: black;
+}
+
+.bgNormal {
+    background-color: #818181;
+    color: black;
+}
+
+.bgPoison {
+    background-color: #9454C7;
+    color: black;
+}
+
+.bgElectrik {
+    background-color: #E1BB27;
+    color: black;
+}
+
+.bgSol {
+    background-color: #A4753D;
+    color: black;
+}
+
+.bgFee {
+    background-color: #E28EE3;
+    color: black;
+}
+
+.bgVol {
+    background-color: #72ADD0;
+    color: black;
+}
+
+.bgSpectre {
+    background-color: #70446F;
+    color: black;
+}
+
+.bgAcier {
+    background-color: #6AACC9;
+    color: black;
+}
+
+.bgRoche {
+    background-color: #A9A582 ;
+    color: black;
+}
+
+.bgCombat {
+    background-color: #E59024;
+    color: black;
+}
+
+.bgPsy {
+    background-color: #EA6B8F;
+    color: black;
+}
+
+.bgGlace {
+    background-color: #48C9CA;
+    color: black;
+}
+
+.bgDragon {
+    background-color: #576FBE;
+    color: black;
+}
+
+.bgTenebre {
+    background-color: #010f0f;
+    color: black;
+}
+
+.type {
+    width: 32px;
+    height: 32px;
+}
+
+.typeDetail {
+    width: 64px;
+    height: 64px;
+}

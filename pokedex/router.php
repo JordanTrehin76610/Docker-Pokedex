@@ -16,13 +16,23 @@ switch ($url[0]) {
         break;
     case 'details':
         $pokemonId = $url[1];
+        if (!is_numeric($pokemonId) || $pokemonId <= 0 || $pokemonId >= 152) {
+            header("Location: erreur.php"); // Redirection si l'id n'est pas un nombre ou est négatif ou supérieur au nombre de pokémon
+            exit;
+        } else {
         $controller = new DetailsController();
         $controller->show($pokemonId);
+        }
         break;
     case 'type':
         $pokemonType = $url[1];
+        if (!in_array($pokemonType, ['Normal', 'Feu', 'Eau', 'Plante', 'Électrik', 'Glace', 'Combat', 'Poison', 'Sol', 'Vol', 'Psychique', 'Insecte', 'Roche', 'Spectre', 'Dragon', 'Fée', 'Acier', 'Ténèbre', 'Psy'])) {
+            header("Location: erreur.php");
+            exit;
+        } else {
         $controller = new TypeController();
         $controller->trie($pokemonType);
+        }
         break;
 }
 

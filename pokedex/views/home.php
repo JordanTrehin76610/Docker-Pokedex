@@ -4,47 +4,64 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokedex</title>
+    <title>Pokédex</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="../style/style.css">
 </head>
 
 
-<body>
+<body class="police">
 
-    <div class="container text-center mb-2">
-        <p class="fs-1">Trie par type de pokémon</p>
-        <a href="index.php?url=type/Plante" class="btn btn-primary">Plante</a>
-        <a href="index.php?url=type/Feu" class="btn btn-primary">Feu</a>
-        <a href="index.php?url=type/Eau" class="btn btn-primary">Eau</a>
-        <a href="index.php?url=type/Insecte" class="btn btn-primary">Insecte</a>
-        <a href="index.php?url=type/Normal" class="btn btn-primary">Normal</a>
-        <a href="index.php?url=type/Poison" class="btn btn-primary">Poison</a>
-        <a href="index.php?url=type/Électrik" class="btn btn-primary">Électrik</a>
-        <a href="index.php?url=type/Sol" class="btn btn-primary">Sol</a>
-        <a href="index.php?url=type/Fée" class="btn btn-primary">Fée</a>
-        <a href="index.php?url=type/Vol" class="btn btn-primary">Vol</a>
-        <a href="index.php?url=type/Spectre" class="btn btn-primary">Spectre</a>
-        <!-- <a href="index.php?url=type/Ténèbre" class="btn btn-primary">Ténèbre</a> LES POKE TENEBRE NE SONT QUA PARTIR DE 2EME GEN-->
-        <a href="index.php?url=type/Acier" class="btn btn-primary">Acier</a>
-        <a href="index.php?url=type/Roche" class="btn btn-primary">Roche</a>
-        <a href="index.php?url=type/Combat" class="btn btn-primary">Combat</a>
-        <a href="index.php?url=type/Psy" class="btn btn-primary">Psy</a>
-        <a href="index.php?url=type/Glace" class="btn btn-primary">Glace</a>
-        <a href="index.php?url=type/Dragon" class="btn btn-primary">Dragon</a>
-    </div>
+    <h1 class="mt-5 text-center">Pokédex</h1>
+    <p class="fs-3 mb-3 text-center">Trie par type de pokémon</p>
+
+    <form action="">
+        <div class="container text-center mb-3">
+            <div class="row">
+                <div class="col text-start">
+                    <label for="type">Type du pokémon:</label>
+                    <select id="type" name="type" class="form-control mt-2">
+                        <option value="All">Tous</option>
+                        <option value="Plante">Plante</option>
+                        <option value="Feu">Feu</option>
+                        <option value="Eau">Eau</option>
+                        <option value="Insecte">Insecte</option>
+                        <option value="Normal">Normal</option>
+                        <option value="Poison">Poison</option>
+                        <option value="Électrik">Électrik</option>
+                        <option value="Sol">Sol</option>
+                        <option value="Fée">Fée</option>
+                        <option value="Vol">Vol</option>
+                        <option value="Spectre">Spectre</option>
+                        <option value="Ténèbre">Ténèbre</option>
+                        <option value="Acier">Acier</option>
+                        <option value="Roche">Roche</option>
+                        <option value="Combat">Combat</option>
+                        <option value="Psy">Psy</option>
+                        <option value="Glace">Glace</option>
+                        <option value="Dragon">Dragon</option>
+                    </select>
+                </div>
+                <div class="col">
+                    <button type="submit" class="btn btn-primary mt-4">Rechercher</button>
+                </div>
+            </div>
+        </div>
+    </form>
 
     <div class="container text-center">
         <div class="row">
             <?php foreach ($allPokemons as $pokemon) { ?>
-            <div class="col-4 border">
-                <a href="index.php?url=details/<?= $pokemon['id'] ?>" class="text-decoration-none text-dark">
+            <!-- <?php require __DIR__ . "/../style/style.php"; ?> Influence la variable $color et le type -->
+            <div class="col-4 border border-dark <?= $color ?> ">
+                <a href="index.php?url=details/<?= $pokemon['id'] ?>" class="text-decoration-none <?= $color ?>">
                     <div class="row">
                         <div class="col">
                             <p><?= $pokemon['nom'] ?></p>
                         </div>
                         <div class="col">
-                            <p><?= $pokemon['id'] ?></p>
+                            <p>N°<?= $pokemon['id'] ?></p>
                         </div>
                     </div>
                     <div class="row">
@@ -54,13 +71,11 @@
                     </div>
                     <div class="row">
                         <div class="col">
-                            <p><?= $pokemon['type'][0] ?></p>
+                            <img src="<?= $icone0 ?>" alt="Logo du 1er type du pokémon" class="type">
                         </div>
-                        <?php if (isset($pokemon['type'][1])) { ?>
                         <div class="col">
-                            <p><?= $pokemon['type'][1] ?></p>
+                            <img src="<?= $icone1 ?>" alt="Logo du 2ème type du pokémon" class="type">
                         </div>
-                        <?php } ?>
                     </div>
                     <div class="row">
                         <div class="col">

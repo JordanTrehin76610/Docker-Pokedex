@@ -7,21 +7,24 @@
     <title>Pokedex</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="../style/style.css">
 </head>
 
 
-<body>
+<body class="police">
 
     <div class="container text-center my-2">
-            <a href="index.php" class="btn btn-primary">Retour à la liste des Pokémon</a>
+        <a href="index.php" class="btn btn-primary">Retour à la liste des Pokémon</a>
     </div>
 
 
     <div class="container text-center">
         <div class="row">
             <?php foreach ($typePokemons as $pokemon) { ?>
-            <div class="col-4 border">
-                <a href="index.php?url=details/<?= $pokemon['id'] ?>" class="text-decoration-none text-dark">
+            <!-- Influence la variable $color et le type -->
+            <?php require __DIR__ . "/../style/style.php"; ?>
+            <div class="col-4 border border-dark <?= $color ?> ">
+                <a href="index.php?url=details/<?= $pokemon['id'] ?>" class="text-decoration-none <?= $color ?>">
                     <div class="row">
                         <div class="col">
                             <p><?= $pokemon['nom'] ?></p>
@@ -37,13 +40,11 @@
                     </div>
                     <div class="row">
                         <div class="col">
-                            <p><?= $pokemon['type'][0] ?></p>
+                            <img src="<?= $icone0 ?>" alt="Logo du 1er type du pokémon" class="type">
                         </div>
-                        <?php if (isset($pokemon['type'][1])) { ?>
                         <div class="col">
-                            <p><?= $pokemon['type'][1] ?></p>
+                            <img src="<?= $icone1 ?>" alt="Logo du 2ème type du pokémon" class="type">
                         </div>
-                        <?php } ?>
                     </div>
                     <div class="row">
                         <div class="col">
