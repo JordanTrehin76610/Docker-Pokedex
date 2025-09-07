@@ -92,7 +92,7 @@
 }
 
 .bgTenebre {
-    background-color: #010f0f;
+    background-color: #504647;
     color: black;
 }
 
@@ -104,4 +104,14 @@
 .typeDetail {
     width: 64px;
     height: 64px;
+}
+
+.pokemonImage {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.pokemonDetail {
+    width: 600px;
+    height: 600px;
 }

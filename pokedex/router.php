@@ -18,7 +18,7 @@ switch ($url[0]) {
         break;
     case 'details':
         $pokemonId = $url[1];
-        if (!is_numeric($pokemonId) || $pokemonId <= 0 || $pokemonId >= 251) {
+        if (!is_numeric($pokemonId) && $pokemonId <= 0 && $pokemonId >= 1025 && $pokemonId >= 4000 && $pokemonId <= 4100 && $pokemonId >= 6000 && $pokemonId <= 6100 && $pokemonId >= 7000 && $pokemonId <= 7200) {
             header("Location: erreur.php"); // Redirection si l'id n'est pas un nombre ou est négatif ou supérieur au nombre de pokémon
             exit;
         } else {

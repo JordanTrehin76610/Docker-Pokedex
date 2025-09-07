@@ -118,7 +118,7 @@ $_POST['generation'] = 'Toutes';
                     </div>
                     <div class="row">
                         <div class="col">
-                            <img src="<?= $pokemon['image'] ?>" alt="Image du pokémon" class="w-50">
+                            <img src="<?= $pokemon['image'] ?>" alt="Image du pokémon" class="pokemonImage">
                         </div>
                     </div>
                     <div class="row">

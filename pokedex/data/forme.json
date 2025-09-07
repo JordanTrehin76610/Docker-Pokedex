@@ -1,0 +1,11 @@
+[
+  { "from": 1, "to": 2, "type": "normale"}, 
+  { "from": 2, "to": 3, "type": "normale"},
+  { "from": 248, "to": 2481, "type": "mega"},          
+  { "from": 6, "to": 6, "type": "gmax"},             
+  { "from": 19, "to": 19, "type": "forme", "condition": "insulaire"},
+  { "from": 133, "to": 134, "type": "normale" }, 
+  { "from": 133, "to": 135, "type": "normale" }, 
+  { "from": 133, "to": 136, "type": "normale" }, 
+  { "from": 136, "to": 1361, "type": "mega" }    
+]

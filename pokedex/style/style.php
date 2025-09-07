@@ -58,7 +58,7 @@ if (isset($pokemon)) {
     case 'Dragon':
         $icone0 = '../img/typeDragon.png';
         break;
-    case 'Ténèbre':
+    case 'Ténèbres':
         $icone0 = '../img/typeTenebre.png';
         break;
     }
@@ -125,7 +125,7 @@ if ($url[0] == 'type') {
         case 'Dragon':
             $color = 'bgDragon';
             break;
-        case 'Ténèbre':
+        case 'Ténèbres':
             $color = 'bgTenebre';
             break;
     }
@@ -199,7 +199,7 @@ switch ($pokemon['type'][0]) {
         $color = 'bgDragon';
         $icone0 = '../img/typeDragon.png';
         break;
-    case 'Ténèbre':
+    case 'Ténèbres':
         $color = 'bgTenebre';
         $icone0 = '../img/typeTenebre.png';
         break;
@@ -259,7 +259,7 @@ if (isset($pokemon['type'][1])) {
         case 'Dragon':
             $icone1 = '../img/typeDragon.png';
             break;
-        case 'Ténèbre':
+        case 'Ténèbres':
             $icone1 = '../img/typeTenebre.png';
             break;
         default:

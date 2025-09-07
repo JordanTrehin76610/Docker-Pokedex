@@ -32,12 +32,12 @@
                             <p><?= $pokemon['nom'] ?></p>
                         </div>
                         <div class="col">
-                            <p><?= $pokemon['id'] ?></p>
+                            <p>N°<?= $pokemon['id'] ?></p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col">
-                            <img src="<?= $pokemon['image'] ?>" alt="Image du pokémon" class="w-50">
+                            <img src="<?= $pokemon['image'] ?>" alt="Image du pokémon" class="pokemonImage">
                         </div>
                     </div>
                     <div class="row">

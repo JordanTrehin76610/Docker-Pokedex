@@ -20,7 +20,7 @@
         <?php require __DIR__ . "/../style/style.php"; ?>
         <div class="row">
             <div class="col border-end">
-                <img src="<?= $pokemon['image'] ?>" alt="Image du pokémon" class="">
+                <img src="<?= $pokemon['image'] ?>" alt="Image du pokémon" class="pokemonDetail">
             </div>
             <div class="col">
                 <div class="row">
