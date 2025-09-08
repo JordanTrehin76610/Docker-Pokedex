@@ -1,0 +1,11 @@
+{
+    "name": "mon-projet/pokemon",
+    "description": "Projet Pokémon avec router et autoload PSR-4",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "Controllers/"
+        }
+    }
+}

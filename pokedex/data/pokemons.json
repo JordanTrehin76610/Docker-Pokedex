@@ -957,7 +957,7 @@
   "nom": "Massko",
   "type": ["Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/253.png",
-  "description": "Évolution d’Arcko, rapide et agile, il se bat avec la lame de sa queue."
+  "description": "Évolution d'Arcko, rapide et agile, il se bat avec la lame de sa queue."
 },
 {
   "gen": 3,
@@ -965,7 +965,7 @@
   "nom": "Jungko",
   "type": ["Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/254.png",
-  "description": "Évolution finale d’Arcko, il bondit de branche en branche et frappe avec sa force végétale."
+  "description": "Évolution finale d'Arcko, il bondit de branche en branche et frappe avec sa force végétale."
 },
 {
   "gen": 3,
@@ -997,7 +997,7 @@
   "nom": "Gobou",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/258.png",
-  "description": "Un petit Pokémon amphibien qui adore l’eau et se déplace aussi bien sur terre que sous l’eau."
+  "description": "Un petit Pokémon amphibien qui adore l'eau et se déplace aussi bien sur terre que sous l'eau."
 },
 {
   "gen": 3,
@@ -1013,7 +1013,7 @@
   "nom": "Laggron",
   "type": ["Eau", "Sol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/260.png",
-  "description": "Évolution finale de Gobou, il peut provoquer des tsunamis en battant l’eau de ses bras robustes."
+  "description": "Évolution finale de Gobou, il peut provoquer des tsunamis en battant l'eau de ses bras robustes."
 },
 {
   "gen": 3,
@@ -1053,7 +1053,7 @@
   "nom": "Chenipotte",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/265.png",
-  "description": "Un petit Pokémon chenille qui se nourrit de feuilles. C’est une proie fréquente des oiseaux."
+  "description": "Un petit Pokémon chenille qui se nourrit de feuilles. C'est une proie fréquente des oiseaux."
 },
 {
   "gen": 3,
@@ -1061,7 +1061,7 @@
   "nom": "Armulys",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/266.png",
-  "description": "Il reste immobile, protégé par sa carapace, en attendant d’évoluer en Papinox."
+  "description": "Il reste immobile, protégé par sa carapace, en attendant d'évoluer en Papinox."
 },
 {
   "gen": 3,
@@ -1069,7 +1069,7 @@
   "nom": "Charmillon",
   "type": ["Insecte", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/267.png",
-  "description": "Évolution d’Armulys, il vole élégamment de fleur en fleur pour se nourrir de nectar."
+  "description": "Évolution d'Armulys, il vole élégamment de fleur en fleur pour se nourrir de nectar."
 },
 {
   "gen": 3,
@@ -1109,7 +1109,7 @@
   "nom": "Ludicolo",
   "type": ["Eau", "Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/272.png",
-  "description": "Évolution finale de Nénupiot, il adore la musique et danse dès qu’il entend un rythme entraînant."
+  "description": "Évolution finale de Nénupiot, il adore la musique et danse dès qu'il entend un rythme entraînant."
 },
 {
   "gen": 3,
@@ -1141,7 +1141,7 @@
   "nom": "Nirondelle",
   "type": ["Normal", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/276.png",
-  "description": "Un petit oiseau très courageux qui n’hésite pas à défier des adversaires plus grands que lui."
+  "description": "Un petit oiseau très courageux qui n'hésite pas à défier des adversaires plus grands que lui."
 },
 {
   "gen": 3,
@@ -1189,7 +1189,7 @@
   "nom": "Gardevoir",
   "type": ["Psy", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/282.png",
-  "description": "Évolution finale de Tarsal, il protège ceux qu’il aime en créant de puissants champs psychiques."
+  "description": "Évolution finale de Tarsal, il protège ceux qu'il aime en créant de puissants champs psychiques."
 },
 {
   "gen": 3,
@@ -1197,7 +1197,7 @@
   "nom": "Arakdo",
   "type": ["Insecte", "Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/283.png",
-  "description": "Il se déplace à la surface de l’eau en marchant sur ses pattes fines."
+  "description": "Il se déplace à la surface de l'eau en marchant sur ses pattes fines."
 },
 {
   "gen": 3,
@@ -1205,7 +1205,7 @@
   "nom": "Maskadra",
   "type": ["Insecte", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/284.png",
-  "description": "Évolution d’Arakdo, ses antennes en forme d’yeux font fuir ses ennemis."
+  "description": "Évolution d'Arakdo, ses antennes en forme d'yeux font fuir ses ennemis."
 },
 {
   "gen": 3,
@@ -1300,7 +1300,7 @@
   "nom": "Makuhita",
   "type": ["Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/296.png",
-  "description": "Un Pokémon qui s’entraîne sans relâche. Son corps trapu encaisse les coups avec facilité."
+  "description": "Un Pokémon qui s'entraîne sans relâche. Son corps trapu encaisse les coups avec facilité."
 },
 {
   "gen": 3,
@@ -1324,7 +1324,7 @@
   "nom": "Tarinor",
   "type": ["Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/299.png",
-  "description": "Il s’oriente toujours vers le nord grâce à son nez magnétique."
+  "description": "Il s'oriente toujours vers le nord grâce à son nez magnétique."
 },
 {
   "gen": 3,
@@ -1348,7 +1348,7 @@
   "nom": "Ténéfix",
   "type": ["Ténèbres", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/302.png",
-  "description": "Un Pokémon farceur qui se cache dans l’ombre et collectionne les pierres précieuses."
+  "description": "Un Pokémon farceur qui se cache dans l'ombre et collectionne les pierres précieuses."
 },
 {
   "gen": 3,
@@ -1404,7 +1404,7 @@
   "nom": "Dynavolt",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/309.png",
-  "description": "Un Pokémon plein d’énergie qui génère de l’électricité statique en courant."
+  "description": "Un Pokémon plein d'énergie qui génère de l'électricité statique en courant."
 },
 {
   "gen": 3,
@@ -1412,7 +1412,7 @@
   "nom": "Élecsprint",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/310.png",
-  "description": "Évolution de Dynavolt, il libère des éclairs lorsqu’il s’élance à grande vitesse."
+  "description": "Évolution de Dynavolt, il libère des éclairs lorsqu'il s'élance à grande vitesse."
 },
 {
   "gen": 3,
@@ -1460,7 +1460,7 @@
   "nom": "Gloupti",
   "type": ["Poison"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/316.png",
-  "description": "Un petit Pokémon glouton capable d’avaler presque n’importe quoi."
+  "description": "Un petit Pokémon glouton capable d'avaler presque n'importe quoi."
 },
 {
   "gen": 3,
@@ -1476,7 +1476,7 @@
   "nom": "Carvanha",
   "type": ["Eau", "Ténèbres"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/318.png",
-  "description": "Un poisson féroce qui mord tout ce qui s’approche de lui."
+  "description": "Un poisson féroce qui mord tout ce qui s'approche de lui."
 },
 {
   "gen": 3,
@@ -1492,7 +1492,7 @@
   "nom": "Wailmer",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/320.png",
-  "description": "Un Pokémon en forme de baleine joyeuse qui adore jouer avec l’eau."
+  "description": "Un Pokémon en forme de baleine joyeuse qui adore jouer avec l'eau."
 },
 {
   "gen": 3,
@@ -1500,7 +1500,7 @@
   "nom": "Wailord",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/321.png",
-  "description": "Évolution de Wailmer, il est si grand qu’il peut transporter d’autres Pokémon sur son dos."
+  "description": "Évolution de Wailmer, il est si grand qu'il peut transporter d'autres Pokémon sur son dos."
 },
 {
   "gen": 3,
@@ -1564,7 +1564,7 @@
   "nom": "Vibraninf",
   "type": ["Sol", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/329.png",
-  "description": "Évolution de Kraknoix, ses vibrations d’ailes génèrent des ultrasons puissants."
+  "description": "Évolution de Kraknoix, ses vibrations d'ailes génèrent des ultrasons puissants."
 },
 {
   "gen": 3,
@@ -1572,7 +1572,7 @@
   "nom": "Libégon",
   "type": ["Sol", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/330.png",
-  "description": "Évolution finale de Kraknoix, surnommé l’Esprit du Désert, il se déplace caché dans des tempêtes de sable."
+  "description": "Évolution finale de Kraknoix, surnommé l'Esprit du Désert, il se déplace caché dans des tempêtes de sable."
 },
 {
   "gen": 3,
@@ -1587,7 +1587,7 @@
   "nom": "Cacturne",
   "type": ["Plante", "Ténèbres"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/332.png",
-  "description": "Évolution de Cacnea, il suit ses proies dans le désert jusqu’à ce qu’elles s’épuisent."
+  "description": "Évolution de Cacnea, il suit ses proies dans le désert jusqu'à ce qu'elles s'épuisent."
 },
 {
   "gen": 3,
@@ -1603,7 +1603,7 @@
   "nom": "Altaria",
   "type": ["Dragon", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/334.png",
-  "description": "Évolution de Tylton, il plane dans le ciel en chantant d’une voix mélodieuse."
+  "description": "Évolution de Tylton, il plane dans le ciel en chantant d'une voix mélodieuse."
 },
 {
   "gen": 3,
@@ -1635,7 +1635,7 @@
   "nom": "Solaroc",
   "type": ["Roche", "Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/338.png",
-  "description": "Un Pokémon en forme de soleil qui rayonne d’une énergie mystérieuse."
+  "description": "Un Pokémon en forme de soleil qui rayonne d'une énergie mystérieuse."
 },
 {
   "gen": 3,
@@ -1667,7 +1667,7 @@
   "nom": "Colhomard",
   "type": ["Eau", "Ténèbres"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/342.png",
-  "description": "Évolution d’Écrapince, il est craint pour son tempérament brutal et son envie de dominer."
+  "description": "Évolution d'Écrapince, il est craint pour son tempérament brutal et son envie de dominer."
 },
 {
   "gen": 3,
@@ -1715,7 +1715,7 @@
   "nom": "Armaldo",
   "type": ["Roche", "Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/348.png",
-  "description": "Évolution d’Anorith, il possède une carapace robuste et de puissantes griffes."
+  "description": "Évolution d'Anorith, il possède une carapace robuste et de puissantes griffes."
 },
 {
   "gen": 3,
@@ -1747,7 +1747,7 @@
   "nom": "Kecleon",
   "type": ["Normal"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/352.png",
-  "description": "Un caméléon qui peut se fondre dans son environnement, à l’exception de sa bande colorée."
+  "description": "Un caméléon qui peut se fondre dans son environnement, à l'exception de sa bande colorée."
 },
 {
   "gen": 3,
@@ -1779,7 +1779,7 @@
   "nom": "Téraclope",
   "type": ["Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/356.png",
-  "description": "Évolution de Skelénox, son corps est une prison qui emprisonne tout ce qu’il avale."
+  "description": "Évolution de Skelénox, son corps est une prison qui emprisonne tout ce qu'il avale."
 },
 {
   "gen": 3,
@@ -1811,7 +1811,7 @@
   "nom": "Okéoké",
   "type": ["Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/360.png",
-  "description": "Un Pokémon bébé qui aime jouer des tours et est toujours plein d’énergie."
+  "description": "Un Pokémon bébé qui aime jouer des tours et est toujours plein d'énergie."
 },
 {
   "gen": 3,
@@ -1827,7 +1827,7 @@
   "nom": "Oniglali",
   "type": ["Glace"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/362.png",
-  "description": "Évolution de Stalgamin, il peut congeler instantanément l’humidité ambiante."
+  "description": "Évolution de Stalgamin, il peut congeler instantanément l'humidité ambiante."
 },
 {
   "gen": 3,
@@ -1843,7 +1843,7 @@
   "nom": "Phogleur",
   "type": ["Glace", "Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/364.png",
-  "description": "Évolution d’Obalie, il adore jongler avec tout ce qu’il trouve."
+  "description": "Évolution d'Obalie, il adore jongler avec tout ce qu'il trouve."
 },
 {
   "gen": 3,
@@ -1851,7 +1851,7 @@
   "nom": "Kaimorse",
   "type": ["Glace", "Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/365.png",
-  "description": "Évolution finale d’Obalie, ses défenses puissantes peuvent briser la glace épaisse."
+  "description": "Évolution finale d'Obalie, ses défenses puissantes peuvent briser la glace épaisse."
 },
 {
   "gen": 3,
@@ -1867,7 +1867,7 @@
   "nom": "Serpang",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/367.png",
-  "description": "Évolution de Coquiperl, il se déplace rapidement dans l’eau pour chasser ses proies."
+  "description": "Évolution de Coquiperl, il se déplace rapidement dans l'eau pour chasser ses proies."
 },
 {
   "gen": 3,
@@ -1875,7 +1875,7 @@
   "nom": "Rosabyss",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/368.png",
-  "description": "Évolution alternative de Coquiperl, il aspire l’énergie de ses proies."
+  "description": "Évolution alternative de Coquiperl, il aspire l'énergie de ses proies."
 },
 {
   "gen": 3,
@@ -1891,7 +1891,7 @@
   "nom": "Lovdisc",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/370.png",
-  "description": "Un Pokémon en forme de cœur, symbole d’amour et d’attachement."
+  "description": "Un Pokémon en forme de cœur, symbole d'amour et d'attachement."
 },
 {
   "gen": 3,
@@ -1930,7 +1930,7 @@
   "nom": "Métang",
   "type": ["Acier", "Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/375.png",
-  "description": "Fusion de deux Terhal, il écrase ses ennemis avec ses griffes d’acier."
+  "description": "Fusion de deux Terhal, il écrase ses ennemis avec ses griffes d'acier."
 },
 {
   "gen": 3,
@@ -1962,7 +1962,7 @@
   "nom": "Registeel",
   "type": ["Acier"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/379.png",
-  "description": "Un Pokémon légendaire dont le corps est formé d’un métal mystérieux et indestructible."
+  "description": "Un Pokémon légendaire dont le corps est formé d'un métal mystérieux et indestructible."
 },
 {
   "gen": 3,
@@ -1986,7 +1986,7 @@
   "nom": "Kyogre",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/382.png",
-  "description": "Un Pokémon légendaire qui contrôle les océans et peut provoquer d’immenses pluies."
+  "description": "Un Pokémon légendaire qui contrôle les océans et peut provoquer d'immenses pluies."
 },
 {
   "gen": 3,
@@ -2010,7 +2010,7 @@
   "nom": "Jirachi",
   "type": ["Acier", "Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/385.png",
-  "description": "Un Pokémon fabuleux qui exauce les vœux lorsqu’il se réveille d’un sommeil millénaire."
+  "description": "Un Pokémon fabuleux qui exauce les vœux lorsqu'il se réveille d'un sommeil millénaire."
 },
 {
   "gen": 3,
@@ -2018,7 +2018,7 @@
   "nom": "Deoxys",
   "type": ["Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/386.png",
-  "description": "Un Pokémon extraterrestre issu d’un virus spatial, capable de changer de forme."
+  "description": "Un Pokémon extraterrestre issu d'un virus spatial, capable de changer de forme."
 },{
   "gen": 4,
   "id": 387,
@@ -2049,7 +2049,7 @@
   "nom": "Ouisticram",
   "type": ["Feu"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/390.png",
-  "description": "Un singe vif dont la queue brûle grâce à l’énergie de son corps."
+  "description": "Un singe vif dont la queue brûle grâce à l'énergie de son corps."
 },
 {
   "gen": 4,
@@ -2057,7 +2057,7 @@
   "nom": "Chimpenfeu",
   "type": ["Feu", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/391.png",
-  "description": "Évolution d’Ouisticram, il devient plus rapide et combat avec agilité."
+  "description": "Évolution d'Ouisticram, il devient plus rapide et combat avec agilité."
 },
 {
   "gen": 4,
@@ -2065,7 +2065,7 @@
   "nom": "Simiabraz",
   "type": ["Feu", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/392.png",
-  "description": "Évolution finale d’Ouisticram, il combine puissance et vitesse dans ses combats."
+  "description": "Évolution finale d'Ouisticram, il combine puissance et vitesse dans ses combats."
 },
 {
   "gen": 4,
@@ -2081,7 +2081,7 @@
   "nom": "Prinplouf",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/394.png",
-  "description": "Évolution de Tiplouf, il vit en groupe et marche d’un air majestueux."
+  "description": "Évolution de Tiplouf, il vit en groupe et marche d'un air majestueux."
 },
 {
   "gen": 4,
@@ -2105,7 +2105,7 @@
   "nom": "Étourvol",
   "type": ["Normal", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/397.png",
-  "description": "Évolution d’Étourmi, il chasse en bandes coordonnées pour attraper ses proies."
+  "description": "Évolution d'Étourmi, il chasse en bandes coordonnées pour attraper ses proies."
 },
 {
   "gen": 4,
@@ -2113,7 +2113,7 @@
   "nom": "Étouraptor",
   "type": ["Normal", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/398.png",
-  "description": "Évolution finale d’Étourmi, il est redoutable et attaque avec férocité."
+  "description": "Évolution finale d'Étourmi, il est redoutable et attaque avec férocité."
 },
 {
   "gen": 4,
@@ -2161,7 +2161,7 @@
   "nom": "Luxio",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/404.png",
-  "description": "Évolution de Lixy, il utilise ses griffes chargées d’électricité pour se battre."
+  "description": "Évolution de Lixy, il utilise ses griffes chargées d'électricité pour se battre."
 },
 {
   "gen": 4,
@@ -2177,7 +2177,7 @@
   "nom": "Rozbouton",
   "type": ["Plante", "Poison"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/406.png",
-  "description": "Un petit bourgeon qui éclot au soleil pour emmagasiner de l’énergie."
+  "description": "Un petit bourgeon qui éclot au soleil pour emmagasiner de l'énergie."
 },
 {
   "gen": 4,
@@ -2201,7 +2201,7 @@
   "nom": "Charkos",
   "type": ["Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/409.png",
-  "description": "Évolution de Kranidos, sa tête est si dure qu’il détruit tout sur son passage."
+  "description": "Évolution de Kranidos, sa tête est si dure qu'il détruit tout sur son passage."
 },
 {
   "gen": 4,
@@ -2225,7 +2225,7 @@
   "nom": "Cheniti",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/412.png",
-  "description": "Un Pokémon qui se cache dans un sac de soie, changeant selon l’environnement."
+  "description": "Un Pokémon qui se cache dans un sac de soie, changeant selon l'environnement."
 },
 {
   "gen": 4,
@@ -2257,7 +2257,7 @@
   "nom": "Apireine",
   "type": ["Insecte", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/416.png",
-  "description": "Évolution d’Apitrini, elle commande la ruche avec autorité."
+  "description": "Évolution d'Apitrini, elle commande la ruche avec autorité."
 },
 {
   "gen": 4,
@@ -2265,7 +2265,7 @@
   "nom": "Pachirisu",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/417.png",
-  "description": "Un écureuil électrique joyeux qui emmagasine de l’énergie dans sa queue."
+  "description": "Un écureuil électrique joyeux qui emmagasine de l'énergie dans sa queue."
 },
 {
   "gen": 4,
@@ -2297,7 +2297,7 @@
   "nom": "Ceriflor",
   "type": ["Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/421.png",
-  "description": "Évolution de Ceribou, il s’épanouit en fonction de la lumière du soleil."
+  "description": "Évolution de Ceribou, il s'épanouit en fonction de la lumière du soleil."
 },
 {
   "gen": 4,
@@ -2305,7 +2305,7 @@
   "nom": "Sancoki",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/422.png",
-  "description": "Un petit Pokémon marin dont l’apparence varie selon la région."
+  "description": "Un petit Pokémon marin dont l'apparence varie selon la région."
 },
 {
   "gen": 4,
@@ -2344,7 +2344,7 @@
   "nom": "Laporeille",
   "type": ["Normal"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/427.png",
-  "description": "Un Pokémon lapin timide qui replie ses oreilles lorsqu’il prend peur."
+  "description": "Un Pokémon lapin timide qui replie ses oreilles lorsqu'il prend peur."
 },
 {
   "gen": 4,
@@ -2424,7 +2424,7 @@
   "nom": "Archéodong",
   "type": ["Acier", "Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/437.png",
-  "description": "Évolution d’Archéomire, il invoque la pluie et protège les temples anciens."
+  "description": "Évolution d'Archéomire, il invoque la pluie et protège les temples anciens."
 },
 {
   "gen": 4,
@@ -2432,7 +2432,7 @@
   "nom": "Manzaï",
   "type": ["Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/438.png",
-  "description": "Un bébé Pokémon qui ressemble à un petit arbre et pleure pour attirer l’attention."
+  "description": "Un bébé Pokémon qui ressemble à un petit arbre et pleure pour attirer l'attention."
 },
 {
   "gen": 4,
@@ -2496,7 +2496,7 @@
   "nom": "Goinfrex",
   "type": ["Normal"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/446.png",
-  "description": "Un bébé Pokémon qui mange tout ce qu’il trouve, pré-évolution de Ronflex."
+  "description": "Un bébé Pokémon qui mange tout ce qu'il trouve, pré-évolution de Ronflex."
 },
 {
   "gen": 4,
@@ -2512,7 +2512,7 @@
   "nom": "Lucario",
   "type": ["Combat", "Acier"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/448.png",
-  "description": "Évolution de Riolu, il maîtrise l’aura pour lire les pensées et combattre."
+  "description": "Évolution de Riolu, il maîtrise l'aura pour lire les pensées et combattre."
 },
 {
   "gen": 4,
@@ -2528,7 +2528,7 @@
   "nom": "Hippodocus",
   "type": ["Sol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/450.png",
-  "description": "Évolution d’Hippopotas, il provoque des tempêtes de sable en ouvrant sa gueule."
+  "description": "Évolution d'Hippopotas, il provoque des tempêtes de sable en ouvrant sa gueule."
 },
 {
   "gen": 4,
@@ -2584,7 +2584,7 @@
   "nom": "Luminéon",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/457.png",
-  "description": "Évolution d’Écayon, il illumine les abysses avec ses nageoires."
+  "description": "Évolution d'Écayon, il illumine les abysses avec ses nageoires."
 },
 {
   "gen": 4,
@@ -2656,7 +2656,7 @@
   "nom": "Élekable",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/466.png",
-  "description": "Évolution d’Élektek, il génère de puissants éclairs avec ses bras."
+  "description": "Évolution d'Élektek, il génère de puissants éclairs avec ses bras."
 },{
   "gen": 4,
   "id": 467,
@@ -2687,7 +2687,7 @@
   "nom": "Phyllali",
   "type": ["Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/470.png",
-  "description": "Évolution d’Évoli, il s’imprègne de la nature et purifie l’air autour de lui."
+  "description": "Évolution d'Évoli, il s'imprègne de la nature et purifie l'air autour de lui."
 },
 {
   "gen": 4,
@@ -2695,7 +2695,7 @@
   "nom": "Givrali",
   "type": ["Glace"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/471.png",
-  "description": "Évolution d’Évoli, il maîtrise la glace et peut geler son environnement."
+  "description": "Évolution d'Évoli, il maîtrise la glace et peut geler son environnement."
 },
 {
   "gen": 4,
@@ -2711,7 +2711,7 @@
   "nom": "Mammochon",
   "type": ["Glace", "Sol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/473.png",
-  "description": "Évolution de Cochignon, il est recouvert d’une fourrure épaisse et de grandes défenses."
+  "description": "Évolution de Cochignon, il est recouvert d'une fourrure épaisse et de grandes défenses."
 },
 {
   "gen": 4,
@@ -2743,7 +2743,7 @@
   "nom": "Noctunoir",
   "type": ["Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/477.png",
-  "description": "Évolution de Téraclope, il guide les âmes vers l’au-delà."
+  "description": "Évolution de Téraclope, il guide les âmes vers l'au-delà."
 },
 {
   "gen": 4,
@@ -2775,7 +2775,7 @@
   "nom": "Créfollet",
   "type": ["Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/481.png",
-  "description": "Un Pokémon légendaire qui incarne l’émotion."
+  "description": "Un Pokémon légendaire qui incarne l'émotion."
 },
 {
   "gen": 4,
@@ -2799,7 +2799,7 @@
   "nom": "Palkia",
   "type": ["Eau", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/484.png",
-  "description": "Un Pokémon légendaire qui règne sur l’espace."
+  "description": "Un Pokémon légendaire qui règne sur l'espace."
 },
 {
   "gen": 4,
@@ -2847,7 +2847,7 @@
   "nom": "Manaphy",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/490.png",
-  "description": "Un Pokémon fabuleux qui vit dans l’océan et peut créer des liens avec n’importe qui."
+  "description": "Un Pokémon fabuleux qui vit dans l'océan et peut créer des liens avec n'importe qui."
 },
 {
   "gen": 4,
@@ -2855,7 +2855,7 @@
   "nom": "Darkrai",
   "type": ["Ténèbres"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/491.png",
-  "description": "Un Pokémon fabuleux qui plonge ses victimes dans d’éternels cauchemars."
+  "description": "Un Pokémon fabuleux qui plonge ses victimes dans d'éternels cauchemars."
 },
 {
   "gen": 4,
@@ -2863,7 +2863,7 @@
   "nom": "Shaymin",
   "type": ["Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/492.png",
-  "description": "Un Pokémon fabuleux qui purifie l’air et fleurit lorsqu’il est heureux."
+  "description": "Un Pokémon fabuleux qui purifie l'air et fleurit lorsqu'il est heureux."
 },
 {
   "gen": 4,
@@ -2878,7 +2878,7 @@
   "nom": "Victini",
   "type": ["Psy", "Feu"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/494.png",
-  "description": "Un Pokémon fabuleux qui symbolise la victoire et apporte de l’énergie infinie."
+  "description": "Un Pokémon fabuleux qui symbolise la victoire et apporte de l'énergie infinie."
 },
 {
   "gen": 5,
@@ -2894,7 +2894,7 @@
   "nom": "Lianaja",
   "type": ["Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/496.png",
-  "description": "Évolution de Vipélierre, son corps long et élégant lui permet d’esquiver habilement."
+  "description": "Évolution de Vipélierre, son corps long et élégant lui permet d'esquiver habilement."
 },
 {
   "gen": 5,
@@ -3046,7 +3046,7 @@
   "nom": "Flotajou",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/515.png",
-  "description": "Un singe aquatique qui joue dans l’eau et lance des jets puissants."
+  "description": "Un singe aquatique qui joue dans l'eau et lance des jets puissants."
 },
 {
   "gen": 5,
@@ -3054,7 +3054,7 @@
   "nom": "Flotoutan",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/516.png",
-  "description": "Évolution de Flotajou, il contrôle l’eau avec habileté."
+  "description": "Évolution de Flotajou, il contrôle l'eau avec habileté."
 },
 {
   "gen": 5,
@@ -3062,7 +3062,7 @@
   "nom": "Munna",
   "type": ["Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/517.png",
-  "description": "Il mange les rêves en aspirant la brume qui s’en échappe."
+  "description": "Il mange les rêves en aspirant la brume qui s'en échappe."
 },
 {
   "gen": 5,
@@ -3110,7 +3110,7 @@
   "nom": "Zéblitz",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/523.png",
-  "description": "Évolution de Zébibron, il est rapide comme l’éclair et frappe violemment."
+  "description": "Évolution de Zébibron, il est rapide comme l'éclair et frappe violemment."
 },
 {
   "gen": 5,
@@ -3118,7 +3118,7 @@
   "nom": "Nodulithe",
   "type": ["Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/524.png",
-  "description": "Un petit Pokémon rocheux qui se nourrit d’énergie minérale."
+  "description": "Un petit Pokémon rocheux qui se nourrit d'énergie minérale."
 },
 {
   "gen": 5,
@@ -3126,7 +3126,7 @@
   "nom": "Géolithe",
   "type": ["Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/525.png",
-  "description": "Évolution de Nodulithe, il accumule de l’énergie explosive en lui."
+  "description": "Évolution de Nodulithe, il accumule de l'énergie explosive en lui."
 },
 {
   "gen": 5,
@@ -3150,7 +3150,7 @@
   "nom": "Rhinolove",
   "type": ["Psy", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/528.png",
-  "description": "Évolution de Chovsourir, il symbolise l’amour et la fidélité."
+  "description": "Évolution de Chovsourir, il symbolise l'amour et la fidélité."
 },
 {
   "gen": 5,
@@ -3437,7 +3437,7 @@
   "nom": "Carapagos",
   "type": ["Eau", "Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/564.png",
-  "description": "Un ancien Pokémon tortue ressuscité d’un fossile."
+  "description": "Un ancien Pokémon tortue ressuscité d'un fossile."
 },
 {
   "gen": 5,
@@ -3461,7 +3461,7 @@
   "nom": "Aéroptéryx",
   "type": ["Roche", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/567.png",
-  "description": "Évolution d’Arkéapti, un prédateur ailé redoutable."
+  "description": "Évolution d'Arkéapti, un prédateur ailé redoutable."
 },
 {
   "gen": 5,
@@ -3532,7 +3532,7 @@
   "nom": "Sidérella",
   "type": ["Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/576.png",
-  "description": "Évolution finale de Scrutella, il voit les étoiles et prédit l’avenir."
+  "description": "Évolution finale de Scrutella, il voit les étoiles et prédit l'avenir."
 },
 {
   "gen": 5,
@@ -3604,7 +3604,7 @@
   "nom": "Vivaldaim",
   "type": ["Normal", "Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/585.png",
-  "description": "Un Pokémon cerf dont l’apparence change selon les saisons."
+  "description": "Un Pokémon cerf dont l'apparence change selon les saisons."
 },
 {
   "gen": 5,
@@ -3660,7 +3660,7 @@
   "nom": "Viskuse",
   "type": ["Eau", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/592.png",
-  "description": "Une méduse spectrale qui flotte dans l’océan."
+  "description": "Une méduse spectrale qui flotte dans l'océan."
 },
 {
   "gen": 5,
@@ -3684,7 +3684,7 @@
   "nom": "Statitik",
   "type": ["Insecte", "Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/595.png",
-  "description": "Un petit Pokémon araignée qui se nourrit d’électricité."
+  "description": "Un petit Pokémon araignée qui se nourrit d'électricité."
 },
 {
   "gen": 5,
@@ -3700,7 +3700,7 @@
   "nom": "Grindur",
   "type": ["Plante", "Acier"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/597.png",
-  "description": "Un Pokémon épineux qui s’accroche aux parois des cavernes."
+  "description": "Un Pokémon épineux qui s'accroche aux parois des cavernes."
 },
 {
   "gen": 5,
@@ -3748,7 +3748,7 @@
   "nom": "Lampéroie",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/603.png",
-  "description": "Évolution d’Anchwatt, il électrocute ses proies dans l’eau."
+  "description": "Évolution d'Anchwatt, il électrocute ses proies dans l'eau."
 },
 {
   "gen": 5,
@@ -3756,7 +3756,7 @@
   "nom": "Ohmassacre",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/604.png",
-  "description": "Évolution finale d’Anchwatt, ses crocs produisent de fortes décharges."
+  "description": "Évolution finale d'Anchwatt, ses crocs produisent de fortes décharges."
 },
 {
   "gen": 5,
@@ -3780,7 +3780,7 @@
   "nom": "Funécire",
   "type": ["Spectre", "Feu"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/607.png",
-  "description": "Un petit cierge animé qui absorbe l’énergie vitale."
+  "description": "Un petit cierge animé qui absorbe l'énergie vitale."
 },
 {
   "gen": 5,
@@ -3804,7 +3804,7 @@
   "nom": "Coupenotte",
   "type": ["Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/610.png",
-  "description": "Un petit dragon qui mord tout ce qu’il trouve."
+  "description": "Un petit dragon qui mord tout ce qu'il trouve."
 },
 {
   "gen": 5,
@@ -3859,7 +3859,7 @@
   "nom": "Limaspeed",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/617.png",
-  "description": "Évolution d’Escargaume sans coquille, il est rapide et agile."
+  "description": "Évolution d'Escargaume sans coquille, il est rapide et agile."
 },
 {
   "gen": 5,
@@ -3883,7 +3883,7 @@
   "nom": "Shaofouine",
   "type": ["Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/620.png",
-  "description": "Évolution de Kungfouine, ses attaques sont d’une grande élégance."
+  "description": "Évolution de Kungfouine, ses attaques sont d'une grande élégance."
 },
 {
   "gen": 5,
@@ -3979,7 +3979,7 @@
   "nom": "Fermite",
   "type": ["Insecte", "Acier"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/632.png",
-  "description": "Une fourmi d’acier qui attaque en colonie."
+  "description": "Une fourmi d'acier qui attaque en colonie."
 },
 {
   "gen": 5,
@@ -3987,7 +3987,7 @@
   "nom": "Solochi",
   "type": ["Ténèbres", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/633.png",
-  "description": "Un petit dragon ténébreux qui mord tout ce qu’il rencontre."
+  "description": "Un petit dragon ténébreux qui mord tout ce qu'il rencontre."
 },
 {
   "gen": 5,
@@ -4027,7 +4027,7 @@
   "nom": "Cobaltium",
   "type": ["Acier", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/638.png",
-  "description": "L’un des trois mousquetaires légendaires, il est protecteur et fier."
+  "description": "L'un des trois mousquetaires légendaires, il est protecteur et fier."
 },
 {
   "gen": 5,
@@ -4035,7 +4035,7 @@
   "nom": "Terrakium",
   "type": ["Roche", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/639.png",
-  "description": "L’un des trois mousquetaires légendaires, il possède une grande force."
+  "description": "L'un des trois mousquetaires légendaires, il possède une grande force."
 },
 {
   "gen": 5,
@@ -4043,7 +4043,7 @@
   "nom": "Viridium",
   "type": ["Plante", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/640.png",
-  "description": "L’un des trois mousquetaires légendaires, rapide et élégant."
+  "description": "L'un des trois mousquetaires légendaires, rapide et élégant."
 },
 {
   "gen": 5,
@@ -4075,7 +4075,7 @@
   "nom": "Zekrom",
   "type": ["Dragon", "Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/644.png",
-  "description": "Un dragon légendaire qui incarne l’idéal et la foudre."
+  "description": "Un dragon légendaire qui incarne l'idéal et la foudre."
 },
 {
   "gen": 5,
@@ -4099,7 +4099,7 @@
   "nom": "Keldeo",
   "type": ["Eau", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/647.png",
-  "description": "Le quatrième mousquetaire légendaire, rapide comme l’eau."
+  "description": "Le quatrième mousquetaire légendaire, rapide comme l'eau."
 },
 {
   "gen": 5,
@@ -4146,7 +4146,7 @@
   "nom": "Feunnec",
   "type": ["Feu"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/653.png",
-  "description": "Un petit renard qui utilise ses grandes oreilles pour souffler de l’air chaud."
+  "description": "Un petit renard qui utilise ses grandes oreilles pour souffler de l'air chaud."
 },
 {
   "gen": 6,
@@ -4266,7 +4266,7 @@
   "nom": "Némélios",
   "type": ["Feu", "Normal"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/668.png",
-  "description": "Évolution d’Hélionceau, son rugissement brûlant impressionne ses ennemis."
+  "description": "Évolution d'Hélionceau, son rugissement brûlant impressionne ses ennemis."
 },
 {
   "gen": 6,
@@ -4274,7 +4274,7 @@
   "nom": "Flabébé",
   "type": ["Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/669.png",
-  "description": "Un petit Pokémon qui s’attache à une fleur dès sa naissance."
+  "description": "Un petit Pokémon qui s'attache à une fleur dès sa naissance."
 },
 {
   "gen": 6,
@@ -4362,7 +4362,7 @@
   "nom": "Dimoclès",
   "type": ["Acier", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/680.png",
-  "description": "Évolution de Monorpale, un duo d’épées redoutable."
+  "description": "Évolution de Monorpale, un duo d'épées redoutable."
 },
 {
   "gen": 6,
@@ -4402,7 +4402,7 @@
   "nom": "Cupcanaille",
   "type": ["Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/685.png",
-  "description": "Évolution de Sucroquin, il embaume l’air d’une odeur sucrée."
+  "description": "Évolution de Sucroquin, il embaume l'air d'une odeur sucrée."
 },
 {
   "gen": 6,
@@ -4434,7 +4434,7 @@
   "nom": "Golgopathe",
   "type": ["Roche", "Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/689.png",
-  "description": "Évolution d’Opermine, il broie tout avec ses puissantes pinces."
+  "description": "Évolution d'Opermine, il broie tout avec ses puissantes pinces."
 },{
   "gen": 6,
   "id": 690,
@@ -4457,7 +4457,7 @@
   "nom": "Flingouste",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/692.png",
-  "description": "Un petit crustacé qui attaque avec son puissant jet d’eau."
+  "description": "Un petit crustacé qui attaque avec son puissant jet d'eau."
 },
 {
   "gen": 6,
@@ -4481,7 +4481,7 @@
   "nom": "Iguolta",
   "type": ["Électrik", "Normal"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/695.png",
-  "description": "Évolution de Galvaran, ses collerettes accumulent l’énergie solaire."
+  "description": "Évolution de Galvaran, ses collerettes accumulent l'énergie solaire."
 },
 {
   "gen": 6,
@@ -4513,7 +4513,7 @@
   "nom": "Dragmara",
   "type": ["Roche", "Glace"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/699.png",
-  "description": "Évolution d’Amagara, ses cristaux brillent sous la lumière."
+  "description": "Évolution d'Amagara, ses cristaux brillent sous la lumière."
 },
 {
   "gen": 6,
@@ -4521,7 +4521,7 @@
   "nom": "Nymphali",
   "type": ["Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/700.png",
-  "description": "Une évolution d’Évoli qui apaise ses alliés avec ses rubans."
+  "description": "Une évolution d'Évoli qui apaise ses alliés avec ses rubans."
 },
 {
   "gen": 6,
@@ -4537,7 +4537,7 @@
   "nom": "Dedenne",
   "type": ["Électrik", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/702.png",
-  "description": "Un petit rongeur qui stocke de l’électricité dans ses moustaches."
+  "description": "Un petit rongeur qui stocke de l'électricité dans ses moustaches."
 },
 {
   "gen": 6,
@@ -4545,7 +4545,7 @@
   "nom": "Strassie",
   "type": ["Roche", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/703.png",
-  "description": "Un joyau vivant qui scintille dans l’obscurité."
+  "description": "Un joyau vivant qui scintille dans l'obscurité."
 },
 {
   "gen": 6,
@@ -4585,7 +4585,7 @@
   "nom": "Brocélôme",
   "type": ["Spectre", "Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/708.png",
-  "description": "Un petit tronc hanté par l’esprit d’un enfant perdu."
+  "description": "Un petit tronc hanté par l'esprit d'un enfant perdu."
 },
 {
   "gen": 6,
@@ -4601,7 +4601,7 @@
   "nom": "Pitrouille",
   "type": ["Spectre", "Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/710.png",
-  "description": "Un Pokémon citrouille qui apparaît à l’automne."
+  "description": "Un Pokémon citrouille qui apparaît à l'automne."
 },
 {
   "gen": 6,
@@ -4649,7 +4649,7 @@
   "nom": "Xerneas",
   "type": ["Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/716.png",
-  "description": "Le Pokémon légendaire de la vie, porteur d’un pouvoir régénérateur."
+  "description": "Le Pokémon légendaire de la vie, porteur d'un pouvoir régénérateur."
 },
 {
   "gen": 6,
@@ -4665,7 +4665,7 @@
   "nom": "Zygarde",
   "type": ["Dragon", "Sol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/718.png",
-  "description": "Un gardien de l’équilibre qui change de forme selon la situation."
+  "description": "Un gardien de l'équilibre qui change de forme selon la situation."
 },
 {
   "gen": 6,
@@ -4681,7 +4681,7 @@
   "nom": "Hoopa",
   "type": ["Psy", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/720.png",
-  "description": "Un Pokémon fabuleux qui manipule l’espace avec ses anneaux."
+  "description": "Un Pokémon fabuleux qui manipule l'espace avec ses anneaux."
 },
 {
   "gen": 6,
@@ -4696,7 +4696,7 @@
   "nom": "Brindibou",
   "type": ["Plante", "Vol"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/722.png",
-  "description": "Un hibou discret qui attaque sans bruit en volant dans l’obscurité."
+  "description": "Un hibou discret qui attaque sans bruit en volant dans l'obscurité."
 },
 {
   "gen": 7,
@@ -4752,7 +4752,7 @@
   "nom": "Otarlette",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/729.png",
-  "description": "Évolution d’Otaquin, il danse gracieusement dans l’eau."
+  "description": "Évolution d'Otaquin, il danse gracieusement dans l'eau."
 },
 {
   "gen": 7,
@@ -4760,7 +4760,7 @@
   "nom": "Oratoria",
   "type": ["Eau", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/730.png",
-  "description": "Évolution finale d’Otaquin, une diva aquatique."
+  "description": "Évolution finale d'Otaquin, une diva aquatique."
 },
 {
   "gen": 7,
@@ -4808,7 +4808,7 @@
   "nom": "Larvibule",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/736.png",
-  "description": "Une larve qui s’accroche avec ses mandibules."
+  "description": "Une larve qui s'accroche avec ses mandibules."
 },
 {
   "gen": 7,
@@ -4816,7 +4816,7 @@
   "nom": "Chrysapile",
   "type": ["Insecte", "Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/737.png",
-  "description": "Évolution de Larvibule, il emmagasine l’énergie électrique."
+  "description": "Évolution de Larvibule, il emmagasine l'énergie électrique."
 },
 {
   "gen": 7,
@@ -4824,7 +4824,7 @@
   "nom": "Lucanon",
   "type": ["Insecte", "Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/738.png",
-  "description": "Évolution finale de Larvibule, ses mandibules projettent de l’électricité."
+  "description": "Évolution finale de Larvibule, ses mandibules projettent de l'électricité."
 },
 {
   "gen": 7,
@@ -4880,7 +4880,7 @@
   "nom": "Lougaroc",
   "type": ["Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/745.png",
-  "description": "Évolution de Rocabot, il possède trois formes différentes selon l’heure."
+  "description": "Évolution de Rocabot, il possède trois formes différentes selon l'heure."
 },
 {
   "gen": 7,
@@ -4928,7 +4928,7 @@
   "nom": "Araqua",
   "type": ["Eau", "Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/751.png",
-  "description": "Une petite araignée aquatique qui transporte une bulle d’eau sur sa tête."
+  "description": "Une petite araignée aquatique qui transporte une bulle d'eau sur sa tête."
 },
 {
   "gen": 7,
@@ -4936,7 +4936,7 @@
   "nom": "Tarenbulle",
   "type": ["Eau", "Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/752.png",
-  "description": "Évolution d’Araqua, il emprisonne ses proies dans des bulles d’eau."
+  "description": "Évolution d'Araqua, il emprisonne ses proies dans des bulles d'eau."
 },
 {
   "gen": 7,
@@ -5000,7 +5000,7 @@
   "nom": "Chelours",
   "type": ["Normal", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/760.png",
-  "description": "Évolution de Nounourson, il est si fort qu’il peut briser des arbres en câlinant."
+  "description": "Évolution de Nounourson, il est si fort qu'il peut briser des arbres en câlinant."
 },
 {
   "gen": 7,
@@ -5055,7 +5055,7 @@
   "nom": "Sovkipou",
   "type": ["Insecte", "Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/767.png",
-  "description": "Un Pokémon craintif qui s’enfuit dès qu’il se sent menacé."
+  "description": "Un Pokémon craintif qui s'enfuit dès qu'il se sent menacé."
 },
 {
   "gen": 7,
@@ -5127,7 +5127,7 @@
   "nom": "Boumata",
   "type": ["Feu", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/776.png",
-  "description": "Un dragon recouvert d’une carapace explosive."
+  "description": "Un dragon recouvert d'une carapace explosive."
 },
 {
   "gen": 7,
@@ -5159,7 +5159,7 @@
   "nom": "Draïeul",
   "type": ["Normal", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/780.png",
-  "description": "Un dragon paresseux qui aime s’endormir en vol."
+  "description": "Un dragon paresseux qui aime s'endormir en vol."
 },
 {
   "gen": 7,
@@ -5175,7 +5175,7 @@
   "nom": "Bébécaille",
   "type": ["Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/782.png",
-  "description": "Un petit dragon couvert d’écailles protectrices."
+  "description": "Un petit dragon couvert d'écailles protectrices."
 },
 {
   "gen": 7,
@@ -5183,7 +5183,7 @@
   "nom": "Écaïd",
   "type": ["Dragon", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/783.png",
-  "description": "Évolution de Bébécaille, il s’entraîne sans relâche."
+  "description": "Évolution de Bébécaille, il s'entraîne sans relâche."
 },
 {
   "gen": 7,
@@ -5199,7 +5199,7 @@
   "nom": "Tokorico",
   "type": ["Électrik", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/785.png",
-  "description": "Gardien d’Alola, un esprit protecteur de Mele-Mele."
+  "description": "Gardien d'Alola, un esprit protecteur de Mele-Mele."
 },
 {
   "gen": 7,
@@ -5207,7 +5207,7 @@
   "nom": "Tokopiyon",
   "type": ["Psy", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/786.png",
-  "description": "Gardien d’Alola, esprit protecteur d’Akala."
+  "description": "Gardien d'Alola, esprit protecteur d'Akala."
 },
 {
   "gen": 7,
@@ -5215,7 +5215,7 @@
   "nom": "Tokotoro",
   "type": ["Plante", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/787.png",
-  "description": "Gardien d’Alola, esprit protecteur d’Ula-Ula."
+  "description": "Gardien d'Alola, esprit protecteur d'Ula-Ula."
 },
 {
   "gen": 7,
@@ -5223,7 +5223,7 @@
   "nom": "Tokopisco",
   "type": ["Eau", "Fée"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/788.png",
-  "description": "Gardien d’Alola, esprit protecteur de Poni."
+  "description": "Gardien d'Alola, esprit protecteur de Poni."
 },
 {
   "gen": 7,
@@ -5231,7 +5231,7 @@
   "nom": "Cosmog",
   "type": ["Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/789.png",
-  "description": "Un mystérieux Pokémon cosmique venant d’une autre dimension."
+  "description": "Un mystérieux Pokémon cosmique venant d'une autre dimension."
 },
 {
   "gen": 7,
@@ -5263,7 +5263,7 @@
   "nom": "Zéroïd",
   "type": ["Roche", "Poison"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/793.png",
-  "description": "Une Ultra-Chimère venue d’une autre dimension."
+  "description": "Une Ultra-Chimère venue d'une autre dimension."
 },
 {
   "gen": 7,
@@ -5342,7 +5342,7 @@
   "nom": "Poipole",
   "type": ["Poison"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/803.png",
-  "description": "Ultra-Chimère capable d’émettre un venin puissant."
+  "description": "Ultra-Chimère capable d'émettre un venin puissant."
 },
 {
   "gen": 7,
@@ -5366,7 +5366,7 @@
   "nom": "Blacephalon",
   "type": ["Feu", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/806.png",
-  "description": "Ultra-Chimère qui explose ses feux d’artifice en combat."
+  "description": "Ultra-Chimère qui explose ses feux d'artifice en combat."
 },
 {
   "gen": 7,
@@ -5421,7 +5421,7 @@
   "nom": "Flambino",
   "type": ["Feu"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/813.png",
-  "description": "Un lapin débordant d’énergie qui utilise ses puissantes pattes arrière pour courir."
+  "description": "Un lapin débordant d'énergie qui utilise ses puissantes pattes arrière pour courir."
 },
 {
   "gen": 8,
@@ -5429,7 +5429,7 @@
   "nom": "Lapyro",
   "type": ["Feu"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/814.png",
-  "description": "Il s’entraîne sans relâche pour devenir plus rapide et plus fort."
+  "description": "Il s'entraîne sans relâche pour devenir plus rapide et plus fort."
 },
 {
   "gen": 8,
@@ -5445,7 +5445,7 @@
   "nom": "Larméléon",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/816.png",
-  "description": "Un Pokémon timide qui se camoufle dans l’eau quand il a peur."
+  "description": "Un Pokémon timide qui se camoufle dans l'eau quand il a peur."
 },
 {
   "gen": 8,
@@ -5501,7 +5501,7 @@
   "nom": "Corvaillus",
   "type": ["Vol", "Acier"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/823.png",
-  "description": "Évolution finale, un oiseau d’acier qui domine les cieux de Galar."
+  "description": "Évolution finale, un oiseau d'acier qui domine les cieux de Galar."
 },
 {
   "gen": 8,
@@ -5597,7 +5597,7 @@
   "nom": "Voltoutou",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/835.png",
-  "description": "Un chiot plein d’énergie qui adore courir partout."
+  "description": "Un chiot plein d'énergie qui adore courir partout."
 },
 {
   "gen": 8,
@@ -5605,7 +5605,7 @@
   "nom": "Fulgudog",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/836.png",
-  "description": "Évolution de Voltoutou, il devient rapide comme l’éclair."
+  "description": "Évolution de Voltoutou, il devient rapide comme l'éclair."
 },
 {
   "gen": 8,
@@ -5677,7 +5677,7 @@
   "nom": "Nigosier",
   "type": ["Vol", "Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/845.png",
-  "description": "Il attrape des proies qu’il garde parfois coincées dans sa bouche."
+  "description": "Il attrape des proies qu'il garde parfois coincées dans sa bouche."
 },
 {
   "gen": 8,
@@ -5693,7 +5693,7 @@
   "nom": "Hastacuda",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/847.png",
-  "description": "Évolution d’Embrochet, il fonce comme une lance."
+  "description": "Évolution d'Embrochet, il fonce comme une lance."
 },
 {
   "gen": 8,
@@ -5701,7 +5701,7 @@
   "nom": "Toxizap",
   "type": ["Électrik", "Poison"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/848.png",
-  "description": "Un Pokémon qui génère de l’électricité grâce à ses toxines."
+  "description": "Un Pokémon qui génère de l'électricité grâce à ses toxines."
 },
 {
   "gen": 8,
@@ -5709,7 +5709,7 @@
   "nom": "Salarsen",
   "type": ["Électrik", "Poison"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/849.png",
-  "description": "Évolution de Toxizap, il joue de sa poitrine comme d’une guitare électrique."
+  "description": "Évolution de Toxizap, il joue de sa poitrine comme d'une guitare électrique."
 },{
   "gen": 8,
   "id": 850,
@@ -5884,7 +5884,7 @@
   "nom": "Wattapik",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/871.png",
-  "description": "Il se gonfle d’électricité pour électrocuter ses ennemis."
+  "description": "Il se gonfle d'électricité pour électrocuter ses ennemis."
 },
 {
   "gen": 8,
@@ -5948,7 +5948,7 @@
   "nom": "Pachyradjah",
   "type": ["Acier"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/879.png",
-  "description": "Évolution de Charibari, un énorme éléphant d’acier."
+  "description": "Évolution de Charibari, un énorme éléphant d'acier."
 },
 {
   "gen": 8,
@@ -5980,7 +5980,7 @@
   "nom": "Dracozolt",
   "type": ["Électrik", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/883.png",
-  "description": "Un fossile qui combine la force et l’électricité."
+  "description": "Un fossile qui combine la force et l'électricité."
 },
 {
   "gen": 8,
@@ -6035,7 +6035,7 @@
   "nom": "Éthernatos",
   "type": ["Poison", "Dragon"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/890.png",
-  "description": "Un Pokémon gigantesque qui absorbe l’énergie du ciel et menace l’équilibre du monde."
+  "description": "Un Pokémon gigantesque qui absorbe l'énergie du ciel et menace l'équilibre du monde."
 },
 {
   "gen": 8,
@@ -6067,7 +6067,7 @@
   "nom": "Regieleki",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/894.png",
-  "description": "Il génère une électricité colossale et peut électrocuter tout ce qui l’approche."
+  "description": "Il génère une électricité colossale et peut électrocuter tout ce qui l'approche."
 },
 {
   "gen": 8,
@@ -6106,7 +6106,7 @@
   "nom": "Poussacha",
   "type": ["Plante"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/906.png",
-  "description": "Un Pokémon chaton qui adore se faire caresser, mais qui devient espiègle quand on lui accorde trop d’attention."
+  "description": "Un Pokémon chaton qui adore se faire caresser, mais qui devient espiègle quand on lui accorde trop d'attention."
 },
 {
   "gen": 9,
@@ -6122,7 +6122,7 @@
   "nom": "Miascarade",
   "type": ["Plante", "Ténèbres"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/908.png",
-  "description": "Il excelle dans l’art de la prestidigitation et manipule ses ennemis grâce à ses pétales en forme de masques."
+  "description": "Il excelle dans l'art de la prestidigitation et manipule ses ennemis grâce à ses pétales en forme de masques."
 },
 {
   "gen": 9,
@@ -6138,7 +6138,7 @@
   "nom": "Crocogril",
   "type": ["Feu"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/910.png",
-  "description": "Il accumule l’énergie calorifique dans ses écailles, qui deviennent incandescentes au combat."
+  "description": "Il accumule l'énergie calorifique dans ses écailles, qui deviennent incandescentes au combat."
 },
 {
   "gen": 9,
@@ -6146,7 +6146,7 @@
   "nom": "Flâmigator",
   "type": ["Feu", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/911.png",
-  "description": "Il chante en utilisant les flammes de sa torche, ce qui ensorcelle ceux qui l’écoutent."
+  "description": "Il chante en utilisant les flammes de sa torche, ce qui ensorcelle ceux qui l'écoutent."
 },
 {
   "gen": 9,
@@ -6162,7 +6162,7 @@
   "nom": "Canarbello",
   "type": ["Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/913.png",
-  "description": "Il danse avec énergie et utilise ses ailes pour créer des tourbillons d’eau."
+  "description": "Il danse avec énergie et utilise ses ailes pour créer des tourbillons d'eau."
 },
 {
   "gen": 9,
@@ -6194,7 +6194,7 @@
   "nom": "Tissenboule",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/917.png",
-  "description": "Il roule son fil de soie en boule et s’y cache pour se protéger."
+  "description": "Il roule son fil de soie en boule et s'y cache pour se protéger."
 },
 {
   "gen": 9,
@@ -6242,7 +6242,7 @@
   "nom": "Pohmarmotte",
   "type": ["Électrik", "Combat"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/923.png",
-  "description": "Il allie ses puissants poings à l’électricité pour terrasser ses ennemis."
+  "description": "Il allie ses puissants poings à l'électricité pour terrasser ses ennemis."
 },
 {
   "gen": 9,
@@ -6314,7 +6314,7 @@
   "nom": "Selutin",
   "type": ["Roche"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/932.png",
-  "description": "Il cristallise le sel dans son corps et l’utilise pour se défendre."
+  "description": "Il cristallise le sel dans son corps et l'utilise pour se défendre."
 },
 {
   "gen": 9,
@@ -6354,7 +6354,7 @@
   "nom": "Malvalame",
   "type": ["Feu", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/937.png",
-  "description": "Son épée maudite brûle d’un feu spectral."
+  "description": "Son épée maudite brûle d'un feu spectral."
 },
 {
   "gen": 9,
@@ -6362,7 +6362,7 @@
   "nom": "Têtampoule",
   "type": ["Électrik"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/938.png",
-  "description": "Un têtard lumineux qui génère de l’électricité avec sa queue."
+  "description": "Un têtard lumineux qui génère de l'électricité avec sa queue."
 },
 {
   "gen": 9,
@@ -6410,7 +6410,7 @@
   "nom": "Gribouraigne",
   "type": ["Normal"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/944.png",
-  "description": "Un rongeur farceur qui mâchouille tout ce qu’il trouve."
+  "description": "Un rongeur farceur qui mâchouille tout ce qu'il trouve."
 },
 {
   "gen": 9,
@@ -6433,7 +6433,7 @@
   "nom": "Virevorreur",
   "type": ["Plante", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/947.png",
-  "description": "Il prend la forme d’une souche maléfique et piège ses proies."
+  "description": "Il prend la forme d'une souche maléfique et piège ses proies."
 },
 {
   "gen": 9,
@@ -6481,7 +6481,7 @@
   "nom": "Léboulérou",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/953.png",
-  "description": "Il roule une boule d’énergie dans laquelle il vit et se protège."
+  "description": "Il roule une boule d'énergie dans laquelle il vit et se protège."
 },
 {
   "gen": 9,
@@ -6489,7 +6489,7 @@
   "nom": "Bérasca",
   "type": ["Insecte"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/954.png",
-  "description": "Il se repose au sommet de sa boule, qui rayonne d’énergie mystique."
+  "description": "Il se repose au sommet de sa boule, qui rayonne d'énergie mystique."
 },
 {
   "gen": 9,
@@ -6497,7 +6497,7 @@
   "nom": "Flotillon",
   "type": ["Psy"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/955.png",
-  "description": "Il flotte dans l’air en émettant des ondes mentales."
+  "description": "Il flotte dans l'air en émettant des ondes mentales."
 },
 {
   "gen": 9,
@@ -6529,7 +6529,7 @@
   "nom": "Forgelina",
   "type": ["Fée", "Acier"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/959.png",
-  "description": "Son marteau géant est si puissant qu’il repousse même des Pokémon volants."
+  "description": "Son marteau géant est si puissant qu'il repousse même des Pokémon volants."
 },
 {
   "gen": 9,
@@ -6657,7 +6657,7 @@
   "nom": "Balbalèze",
   "type": ["Glace"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/975.png",
-  "description": "Son corps massif est recouvert d’une épaisse couche de glace protectrice."
+  "description": "Son corps massif est recouvert d'une épaisse couche de glace protectrice."
 },
 {
   "gen": 9,
@@ -6681,7 +6681,7 @@
   "nom": "Nigirigon",
   "type": ["Dragon", "Eau"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/978.png",
-  "description": "Il prend différentes formes selon la garniture de sushi qu’il imite."
+  "description": "Il prend différentes formes selon la garniture de sushi qu'il imite."
 },
 {
   "gen": 9,
@@ -6689,7 +6689,7 @@
   "nom": "Courrousinge",
   "type": ["Combat", "Spectre"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/979.png",
-  "description": "Il est né de la fureur persistante d’un Férosinge."
+  "description": "Il est né de la fureur persistante d'un Férosinge."
 },
 {
   "gen": 9,
@@ -6713,7 +6713,7 @@
   "nom": "Deusolourdo",
   "type": ["Normal"],
   "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/982.png",
-  "description": "Évolution de Insolourdo, son corps s’allonge encore plus."
+  "description": "Évolution de Insolourdo, son corps s'allonge encore plus."
 },
 {
   "gen": 9,
@@ -6742,42 +6742,42 @@
   {"gen": 9, "id": 986, "nom": "Fongus-Furie", "type": ["Plante", "Ténèbres"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/986.png", "description": "Paradoxe du passé qui dissémine des spores toxiques depuis son chapeau."},
   {"gen": 9, "id": 987, "nom": "Flotte-Mèche", "type": ["Spectre", "Fée"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/987.png", "description": "Une entité spectrale au voile flottant qui hante les ruines anciennes."},
   {"gen": 9, "id": 988, "nom": "Rampe-Ailes", "type": ["Insecte", "Combat"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/988.png", "description": "Un prédateur du passé qui bondit en déployant ses ailes membraneuses."},
-  {"gen": 9, "id": 989, "nom": "Pelage-Sablé", "type": ["Électrik", "Sol"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/989.png", "description": "Accumule de l’électricité statique dans le sable et se déplace en fouillant les dunes."},
+  {"gen": 9, "id": 989, "nom": "Pelage-Sablé", "type": ["Électrik", "Sol"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/989.png", "description": "Accumule de l'électricité statique dans le sable et se déplace en fouillant les dunes."},
   {"gen": 9, "id": 990, "nom": "Roue-de-Fer", "type": ["Sol", "Acier"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/990.png", "description": "Une créature futuriste cuirassée qui charge en roulant sur ses membres robustes."},
-  {"gen": 9, "id": 991, "nom": "Hotte-de-Fer", "type": ["Glace", "Eau"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/991.png", "description": "Sa « hotte » high-tech projette de la neige tassée et de l’eau glacée."},
-  {"gen": 9, "id": 992, "nom": "Paume-de-Fer", "type": ["Combat", "Électrik"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/992.png", "description": "Un colosse cybernétique qui foudroie ses cibles d’un coup de paume."},
-  {"gen": 9, "id": 993, "nom": "Têtes-de-Fer", "type": ["Ténèbres", "Vol"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/993.png", "description": "Drone tritête du futur dont chaque « tête » scanne l’ennemi."},
-  {"gen": 9, "id": 994, "nom": "Mite-de-Fer", "type": ["Feu", "Poison"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/994.png", "description": "Ses ailes lumineuses diffusent des flammes mêlées d’émanations toxiques."},
-  {"gen": 9, "id": 995, "nom": "Épine-de-Fer", "type": ["Roche", "Électrik"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/995.png", "description": "Un titan bardé de pointes qui relâche d’énormes décharges électriques."},
+  {"gen": 9, "id": 991, "nom": "Hotte-de-Fer", "type": ["Glace", "Eau"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/991.png", "description": "Sa « hotte » high-tech projette de la neige tassée et de l'eau glacée."},
+  {"gen": 9, "id": 992, "nom": "Paume-de-Fer", "type": ["Combat", "Électrik"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/992.png", "description": "Un colosse cybernétique qui foudroie ses cibles d'un coup de paume."},
+  {"gen": 9, "id": 993, "nom": "Têtes-de-Fer", "type": ["Ténèbres", "Vol"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/993.png", "description": "Drone tritête du futur dont chaque « tête » scanne l'ennemi."},
+  {"gen": 9, "id": 994, "nom": "Mite-de-Fer", "type": ["Feu", "Poison"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/994.png", "description": "Ses ailes lumineuses diffusent des flammes mêlées d'émanations toxiques."},
+  {"gen": 9, "id": 995, "nom": "Épine-de-Fer", "type": ["Roche", "Électrik"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/995.png", "description": "Un titan bardé de pointes qui relâche d'énormes décharges électriques."},
   {"gen": 9, "id": 996, "nom": "Frigodo", "type": ["Dragon", "Glace"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/996.png", "description": "Jeune dragon qui emmagasine du givre sur son dos pour se protéger."},
-  {"gen": 9, "id": 997, "nom": "Cryodo", "type": ["Dragon", "Glace"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/997.png", "description": "Renforce sa carapace de glace en s’entraînant dans les reliefs enneigés."},
-  {"gen": 9, "id": 998, "nom": "Glaivodo", "type": ["Dragon", "Glace"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/998.png", "description": "Son énorme lame dorsale congèle l’air avant de trancher l’adversaire."},
+  {"gen": 9, "id": 997, "nom": "Cryodo", "type": ["Dragon", "Glace"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/997.png", "description": "Renforce sa carapace de glace en s'entraînant dans les reliefs enneigés."},
+  {"gen": 9, "id": 998, "nom": "Glaivodo", "type": ["Dragon", "Glace"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/998.png", "description": "Son énorme lame dorsale congèle l'air avant de trancher l'adversaire."},
   {"gen": 9, "id": 999, "nom": "Mordudor", "type": ["Spectre"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/999.png", "description": "Un esprit cupide qui rassemble des pièces et prend parfois forme de coffre."},
   {"gen": 9, "id": 1000, "nom": "Gromago", "type": ["Acier", "Spectre"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1000.png", "description": "Animé par mille pièces, il les fait tourbillonner pour attaquer."},
-  {"gen": 9, "id": 1001, "nom": "Chongjian", "type": ["Ténèbres", "Plante"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1001.png", "description": "Membre des Trésors du Fléau : ses feuilles drainent la vigueur de l’ennemi."},
+  {"gen": 9, "id": 1001, "nom": "Chongjian", "type": ["Ténèbres", "Plante"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1001.png", "description": "Membre des Trésors du Fléau : ses feuilles drainent la vigueur de l'ennemi."},
   {"gen": 9, "id": 1002, "nom": "Baojian", "type": ["Ténèbres", "Glace"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1002.png", "description": "Un prédateur fulgurant dont la lame glaciale fend tout sur son passage."},
   {"gen": 9, "id": 1003, "nom": "Dinglu", "type": ["Ténèbres", "Sol"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1003.png", "description": "Il traîne une urne maudite et fait trembler la terre à chacun de ses pas."},
-  {"gen": 9, "id": 1004, "nom": "Yuyu", "type": ["Ténèbres", "Feu"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1004.png", "description": "Sa flamme sinistre consume tout ce qu’elle touche sans laisser de cendres."},
+  {"gen": 9, "id": 1004, "nom": "Yuyu", "type": ["Ténèbres", "Feu"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1004.png", "description": "Sa flamme sinistre consume tout ce qu'elle touche sans laisser de cendres."},
   {"gen": 9, "id": 1005, "nom": "Rugit-Lune", "type": ["Dragon", "Ténèbres"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1005.png", "description": "Paradoxe du passé au tempérament farouche, il plane sous la lune."},
-  {"gen": 9, "id": 1006, "nom": "Garde-de-Fer", "type": ["Fée", "Combat"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1006.png", "description": "Un être futuriste à lames d’énergie qui danse avant de frapper."},
+  {"gen": 9, "id": 1006, "nom": "Garde-de-Fer", "type": ["Fée", "Combat"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1006.png", "description": "Un être futuriste à lames d'énergie qui danse avant de frapper."},
   {"gen": 9, "id": 1007, "nom": "Koraidon", "type": ["Combat", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1007.png", "description": "Léendaire écarlate qui libère une puissance primordiale au combat."},
-  {"gen": 9, "id": 1008, "nom": "Miraidon", "type": ["Électrik", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1008.png", "description": "Légendaire violet qui convertit l’énergie environnante en propulsion."},
-  {"gen": 9, "id": 1009, "nom": "Serpente-Eau", "type": ["Eau", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1009.png", "description": "Paradoxe aquatique aux crêtes solaires, il fend l’air comme l’eau."},
+  {"gen": 9, "id": 1008, "nom": "Miraidon", "type": ["Électrik", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1008.png", "description": "Légendaire violet qui convertit l'énergie environnante en propulsion."},
+  {"gen": 9, "id": 1009, "nom": "Serpente-Eau", "type": ["Eau", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1009.png", "description": "Paradoxe aquatique aux crêtes solaires, il fend l'air comme l'eau."},
   {"gen": 9, "id": 1010, "nom": "Vert-de-Fer", "type": ["Plante", "Psy"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1010.png", "description": "Une machine lisse qui projette des lames psychiques depuis ses cornes."},
-  {"gen": 9, "id": 1011, "nom": "Pomdramour", "type": ["Plante", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1011.png", "description": "Évolution d’Applin qui a mûri dans un sirop épais au parfum de pommade."},
-  {"gen": 9, "id": 1012, "nom": "Poltchageist", "type": ["Plante", "Spectre"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1012.png", "description": "Matcha hanté qui s’infiltre dans les fissures de vieux objets."},
-  {"gen": 9, "id": 1013, "nom": "Théffroyable", "type": ["Plante", "Spectre"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1013.png", "description": "Son thé amer revigore sa céramique et peut aussi brûler l’adversaire."},
+  {"gen": 9, "id": 1011, "nom": "Pomdramour", "type": ["Plante", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1011.png", "description": "Évolution d'Applin qui a mûri dans un sirop épais au parfum de pommade."},
+  {"gen": 9, "id": 1012, "nom": "Poltchageist", "type": ["Plante", "Spectre"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1012.png", "description": "Matcha hanté qui s'infiltre dans les fissures de vieux objets."},
+  {"gen": 9, "id": 1013, "nom": "Théffroyable", "type": ["Plante", "Spectre"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1013.png", "description": "Son thé amer revigore sa céramique et peut aussi brûler l'adversaire."},
   {"gen": 9, "id": 1014, "nom": "Félicanis", "type": ["Poison", "Combat"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1014.png", "description": "Frappe à la chaîne et laisse des toxines qui enflamment ses muscles."},
-  {"gen": 9, "id": 1015, "nom": "Fortusimia", "type": ["Poison", "Psy"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1015.png", "description": "Joue avec l’ennemi en le troublant d’ondes psychiques malicieuses."},
+  {"gen": 9, "id": 1015, "nom": "Fortusimia", "type": ["Poison", "Psy"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1015.png", "description": "Joue avec l'ennemi en le troublant d'ondes psychiques malicieuses."},
   {"gen": 9, "id": 1016, "nom": "Favianos", "type": ["Poison", "Fée"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1016.png", "description": "Un dandy venimeux qui séduit ses proies avant de les enchaîner par ruse."},
-  {"gen": 9, "id": 1017, "nom": "Ogerpon", "type": ["Plante"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1017.png", "description": "Change de masque pour adopter des attributs différents, mais reste de type Plante à l’origine."},
-  {"gen": 9, "id": 1018, "nom": "Pondralugon", "type": ["Acier", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1018.png", "description": "Un « pont » mobile d’acier qui libère des salves énergétiques."},
+  {"gen": 9, "id": 1017, "nom": "Ogerpon", "type": ["Plante"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1017.png", "description": "Change de masque pour adopter des attributs différents, mais reste de type Plante à l'origine."},
+  {"gen": 9, "id": 1018, "nom": "Pondralugon", "type": ["Acier", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1018.png", "description": "Un « pont » mobile d'acier qui libère des salves énergétiques."},
   {"gen": 9, "id": 1019, "nom": "Pomdorochi", "type": ["Plante", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1019.png", "description": "Son fruit massif renferme un sirop qui attire ses alliés."},
-  {"gen": 9, "id": 1020, "nom": "Feu-Perçant", "type": ["Feu", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1020.png", "description": "Paradoxe aux crocs incandescents qui déchire l’air de ses rugissements."},
+  {"gen": 9, "id": 1020, "nom": "Feu-Perçant", "type": ["Feu", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1020.png", "description": "Paradoxe aux crocs incandescents qui déchire l'air de ses rugissements."},
   {"gen": 9, "id": 1021, "nom": "Ire-Foudre", "type": ["Électrik", "Dragon"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1021.png", "description": "Canalise des éclairs ancestraux dans sa crinière en forme de nuage."},
   {"gen": 9, "id": 1022, "nom": "Roc-de-Fer", "type": ["Roche", "Psy"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1022.png", "description": "Un projectile lithique du futur guidé par un calcul haute précision."},
-  {"gen": 9, "id": 1023, "nom": "Chef-de-Fer", "type": ["Acier", "Psy"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1023.png", "description": "Une lame d’acier évoluée qui tranche en prédisant les mouvements adverses."},
-  {"gen": 9, "id": 1024, "nom": "Terapagos", "type": ["Normal"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1024.png", "description": "Le noyau du phénomène de Téracristallisation; sa carapace cristalline emmagasine l’énergie."},
+  {"gen": 9, "id": 1023, "nom": "Chef-de-Fer", "type": ["Acier", "Psy"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1023.png", "description": "Une lame d'acier évoluée qui tranche en prédisant les mouvements adverses."},
+  {"gen": 9, "id": 1024, "nom": "Terapagos", "type": ["Normal"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1024.png", "description": "Le noyau du phénomène de Téracristallisation; sa carapace cristalline emmagasine l'énergie."},
   {"gen": 9, "id": 1025, "nom": "Pêchaminus", "type": ["Poison", "Spectre"], "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/1025.png", "description": "Un filou spectral dont la chaîne toxique contraint ses victimes."},
   {
     "gen": 1,
@@ -6849,7 +6849,7 @@
     "nom": "Méga-Pharamp",
     "type": ["Électrik", "Dragon"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/181_f2.png",
-    "description": "La crinière lumineuse de Pharamp s’embrase dans sa Méga-Évolution."
+    "description": "La crinière lumineuse de Pharamp s'embrase dans sa Méga-Évolution."
   },
   {
     "gen": 2,
@@ -6881,7 +6881,7 @@
     "nom": "Méga-Scarhino",
     "type": ["Insecte", "Combat"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/214_f2.png",
-    "description": "La carapace de Scarhino devient si dure qu’elle est presque impénétrable."
+    "description": "La carapace de Scarhino devient si dure qu'elle est presque impénétrable."
   },
   {
     "gen": 3,
@@ -6913,7 +6913,7 @@
     "nom": "Méga-Gardevoir",
     "type": ["Psy", "Fée"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/282_f2.png",
-    "description": "Sa robe rayonne d’une aura féérique impressionnante."
+    "description": "Sa robe rayonne d'une aura féérique impressionnante."
   },
   {
     "gen": 3,
@@ -6953,7 +6953,7 @@
     "nom": "Méga-Absol",
     "type": ["Ténèbres"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/359_f2.png",
-    "description": "Son énergie chaotique prend la forme d’ailes spectrales."
+    "description": "Son énergie chaotique prend la forme d'ailes spectrales."
   },
   {
     "gen": 3,
@@ -6993,7 +6993,7 @@
     "nom": "Méga-Lucario",
     "type": ["Combat", "Acier"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/448_f2.png",
-    "description": "Sa maîtrise de l’aura dépasse toutes les limites connues."
+    "description": "Sa maîtrise de l'aura dépasse toutes les limites connues."
   },
   {
     "gen": 6,
@@ -7001,7 +7001,7 @@
     "nom": "Méga-Diancie",
     "type": ["Roche", "Fée"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/719_f2.png",
-    "description": "Ses joyaux rayonnent d’une lumière éclatante et inarrêtable."
+    "description": "Ses joyaux rayonnent d'une lumière éclatante et inarrêtable."
   },
   {
     "gen": 1,
@@ -7009,7 +7009,7 @@
     "nom": "Pikachu Gigamax",
     "type": ["Électrik"],
     "image": "https://www.pokepedia.fr/images/thumb/7/73/Pikachu_%28Gigamax%29-EB.png/250px-Pikachu_%28Gigamax%29-EB.png",
-    "description": "Son corps redevient dodu comme à l’époque, et il libère une électricité colossale."
+    "description": "Son corps redevient dodu comme à l'époque, et il libère une électricité colossale."
   },
   {
     "gen": 1,
@@ -7025,7 +7025,7 @@
     "nom": "Florizarre Gigamax",
     "type": ["Plante", "Poison"],
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003_f3.png",
-    "description": "Sa fleur géante s’épanouit et couvre tout autour de spores toxiques."
+    "description": "Sa fleur géante s'épanouit et couvre tout autour de spores toxiques."
   },
   {
     "gen": 1,
@@ -7033,7 +7033,7 @@
     "nom": "Tortank Gigamax",
     "type": ["Eau"],
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009_f3.png",
-    "description": "Son dos se hérisse de canons titanesques tirant des torrents d’eau."
+    "description": "Son dos se hérisse de canons titanesques tirant des torrents d'eau."
   },
   {
     "gen": 1,
@@ -7049,7 +7049,7 @@
     "nom": "Dracaufeu Gigamax",
     "type": ["Feu", "Vol"],
     "image": "https://www.pokepedia.fr/images/8/8b/Dracaufeu_%28Gigamax%29-EB.png",
-    "description": "Ses flammes prennent la forme d’ailes colossales embrasant le ciel entier."
+    "description": "Ses flammes prennent la forme d'ailes colossales embrasant le ciel entier."
   },
   {
     "gen": 1,
@@ -7065,7 +7065,7 @@
     "nom": "Ectoplasma Gigamax",
     "type": ["Spectre", "Poison"],
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094_f3.png",
-    "description": "Sa bouche béante ressemble à un portail vers l’au-delà."
+    "description": "Sa bouche béante ressemble à un portail vers l'au-delà."
   },
   {
     "gen": 1,
@@ -7153,7 +7153,7 @@
     "nom": "Pachyradjah Gigamax",
     "type": ["Acier"],
     "image": "https://www.pokepedia.fr/images/0/04/Sprite_0879_Gigamax_HOME.png",
-    "description": "Sa trompe se transforme en un gigantesque pilier d’acier."
+    "description": "Sa trompe se transforme en un gigantesque pilier d'acier."
   },
   {
     "gen": 8,
@@ -7169,7 +7169,7 @@
     "nom": "Shifours Poing Final Gigamax",
     "type": ["Combat", "Ténèbres"],
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/892_f2.png",
-    "description": "Il concentre son énergie dans un poing destructeur d’une puissance infinie."
+    "description": "Il concentre son énergie dans un poing destructeur d'une puissance infinie."
   },
   {
     "gen": 8,
@@ -7185,7 +7185,7 @@
     "nom": "Sorcilence Gigamax",
     "type": ["Psy"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/858_f2.png",
-    "description": "Son aura psychique s’étend sur des kilomètres."
+    "description": "Son aura psychique s'étend sur des kilomètres."
   },
   {
     "gen": 8,
@@ -7209,7 +7209,7 @@
     "nom": "Miasmax Gigamax",
     "type": ["Poison"],
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/569_f2.png",
-    "description": "Son corps s’agrandit en une décharge monstrueuse et toxique."
+    "description": "Son corps s'agrandit en une décharge monstrueuse et toxique."
   },
   {
     "gen": 8,
@@ -7225,7 +7225,7 @@
     "nom": "Pomdrapi Gigamax",
     "type": ["Plante", "Dragon"],
     "image": "https://www.pokepedia.fr/images/c/c4/Pomdrapi_%28Gigamax%29-EB.png",
-    "description": "Son corps fruitier s’élargit et libère des arômes enivrants."
+    "description": "Son corps fruitier s'élargit et libère des arômes enivrants."
   },
   {
     "gen": 8,
@@ -7233,7 +7233,7 @@
     "nom": "Lézargus Gigamax",
     "type": ["Eau"],
     "image": "https://www.pokepedia.fr/images/thumb/6/61/L%C3%A9zargus_%28Gigamax%29-EB.png/250px-L%C3%A9zargus_%28Gigamax%29-EB.png",
-    "description": "Il utilise un fusil d’eau géant taillé dans sa propre énergie."
+    "description": "Il utilise un fusil d'eau géant taillé dans sa propre énergie."
   },
   {
     "gen": 8,
@@ -7257,19 +7257,500 @@
     "nom": "Duralugon Gigamax",
     "type": ["Acier", "Dragon"],
     "image": "https://www.pokepedia.fr/images/e/e8/Duralugon_%28Gigamax%29-EB.png",
-    "description": "Il prend l’apparence d’un gigantesque gratte-ciel d’acier."
+    "description": "Il prend l'apparence d'un gigantesque gratte-ciel d'acier."
+  },
+  {
+    "gen": 7,
+    "id": 7000,
+    "nom": "Rattata d'Alola",
+    "type": ["Ténèbres", "Normal"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019_f2.png",
+    "description": "Il vit surtout en ville et se déplace en bande, dirigé par un Rattatac d'Alola."
+  },
+  {
+    "gen": 7,
+    "id": 7001,
+    "nom": "Rattatac d'Alola",
+    "type": ["Ténèbres", "Normal"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020_f2.png",
+    "description": "Il a un corps plus massif et agit comme chef de meute pour les Rattata."
+  },
+  {
+    "gen": 7,
+    "id": 7002,
+    "nom": "Raichu d'Alola",
+    "type": ["Électrik", "Psy"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026_f2.png",
+    "description": "Il glisse sur sa queue comme sur une planche de surf en utilisant ses pouvoirs psychiques."
+  },
+  {
+    "gen": 7,
+    "id": 7003,
+    "nom": "Sabelette d'Alola",
+    "type": ["Glace", "Acier"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027_f2.png",
+    "description": "Son corps est recouvert d'une carapace glacée qui le protège du climat volcanique."
+  },
+  {
+    "gen": 7,
+    "id": 7004,
+    "nom": "Sablaireau d'Alola",
+    "type": ["Glace", "Acier"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028_f2.png",
+    "description": "Ses griffes glacées lui permettent de grimper sur les parois gelées d'Alola."
+  },
+  {
+    "gen": 7,
+    "id": 7005,
+    "nom": "Goupix d'Alola",
+    "type": ["Glace"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037_f2.png",
+    "description": "Il vit dans les montagnes enneigées d'Alola et utilise son souffle glacé pour se défendre."
+  },
+  {
+    "gen": 7,
+    "id": 7006,
+    "nom": "Feunard d'Alola",
+    "type": ["Glace", "Fée"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038_f2.png",
+    "description": "On le vénère comme une divinité protectrice, capable de conjurer des blizzards."
+  },
+  {
+    "gen": 7,
+    "id": 7007,
+    "nom": "Taupiqueur d'Alola",
+    "type": ["Sol", "Acier"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050_f2.png",
+    "description": "Ses moustaches métalliques lui permettent de détecter les vibrations du sol."
+  },
+  {
+    "gen": 7,
+    "id": 7008,
+    "nom": "Triopikeur d'Alola",
+    "type": ["Sol", "Acier"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051_f2.png",
+    "description": "Ses crinières métalliques sont considérées comme sacrées à Alola."
+  },
+  {
+    "gen": 7,
+    "id": 7009,
+    "nom": "Miaouss d'Alola",
+    "type": ["Ténèbres"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052_f2.png",
+    "description": "Introduit par la royauté d'Alola, il a développé une allure hautaine et rusée."
+  },
+  {
+    "gen": 7,
+    "id": 7010,
+    "nom": "Persian d'Alola",
+    "type": ["Ténèbres"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053_f2.png",
+    "description": "Son visage rond et ses airs nobles reflètent son statut auprès de la royauté."
+  },
+  {
+    "gen": 7,
+    "id": 7011,
+    "nom": "Tadmorv d'Alola",
+    "type": ["Poison", "Ténèbres"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088_f2.png",
+    "description": "Il absorbe les déchets chimiques, ce qui colore son corps de stries toxiques."
+  },
+  {
+    "gen": 7,
+    "id": 7012,
+    "nom": "Grotadmorv d'Alola",
+    "type": ["Poison", "Ténèbres"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089_f2.png",
+    "description": "Ses cristaux toxiques servent à digérer les substances dangereuses."
+  },
+  {
+    "gen": 7,
+    "id": 7013,
+    "nom": "Noadkoko d'Alola",
+    "type": ["Plante", "Dragon"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103_f2.png",
+    "description": "Son cou interminable lui permet d'absorber plus de lumière solaire."
+  },
+  {
+    "gen": 7,
+    "id": 7014,
+    "nom": "Ossatueur d'Alola",
+    "type": ["Feu", "Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105_f2.png",
+    "description": "Les âmes des siens l'accompagnent, enflammant son os et augmentant sa puissance."
+  },
+  {
+    "gen": 7,
+    "id": 7015,
+    "nom": "Racaillou d'Alola",
+    "type": ["Roche", "Électrik"],
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/074_f2.png",
+    "description": "Il se mesure à ses congénères à grands coups de tête. La limaille se colle sur la tête de celui dont la force magnétique est la plus grande."
+  },
+  {
+    "gen": 7,
+    "id": 7016,
+    "nom": "Gravalanch d'Alola",
+    "type": ["Roche", "Électrik"],
+    "image": "https://db.pokemongohub.net/_next/image?url=%2Fimages%2Fofficial%2Ffull%2F075_f2.webp&w=640&q=75",
+    "description": "Ce grand Pokémon soupe au lait raffole des pierres chargées en électricité ; il en mange tellement qu'il déborde d'énergie."
+  },
+  {
+    "gen": 7,
+    "id": 7017,
+    "nom": "Grolem d'Alola",
+    "type": ["Roche", "Électrik"],
+    "image": "https://www.pokepedia.fr/images/f/f5/Grolem_d%27Alola-SL.png",
+    "description": "Il envoie de gros rochers chargés d'électricité qui diffusent des ondes électriques tout autour de la zone d'impact."
+  },
+  {
+    "gen": 8,
+    "id": 7018,
+    "nom": "Caninos de Hisui",
+    "type": ["Feu", "Roche"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058_f2.png",
+    "description": "Son pelage touffu le protège du froid des terres volcaniques de Hisui."
+  },
+  {
+    "gen": 8,
+    "id": 7019,
+    "nom": "Arcanin de Hisui",
+    "type": ["Feu", "Roche"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059_f2.png",
+    "description": "Il est révéré comme un gardien dans la région de Hisui, puissant et majestueux."
+  },
+  {
+    "gen": 8,
+    "id": 7020,
+    "nom": "Voltorbe de Hisui",
+    "type": ["Électrik", "Plante"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100_f2.png",
+    "description": "Fabriqué en bois, son corps rappelle les anciennes Poké Balls de Hisui."
+  },
+  {
+    "gen": 8,
+    "id": 7021,
+    "nom": "Électrode de Hisui",
+    "type": ["Électrik", "Plante"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101_f2.png",
+    "description": "Son énergie instable attire les catastrophes naturelles, ce qui le rend dangereux."
+  },
+  {
+    "gen": 8,
+    "id": 7022,
+    "nom": "Typhlosion de Hisui",
+    "type": ["Feu", "Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/157_f2.png",
+    "description": "Son aura spectrale lui permet de purifier les âmes errantes."
+  },
+  {
+    "gen": 8,
+    "id": 7023,
+    "nom": "Qwilfish de Hisui",
+    "type": ["Ténèbres", "Poison"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/211_f2.png",
+    "description": "Il projette des dards empoisonnés renforcés par l'énergie obscure."
+  },
+  {
+    "gen": 8,
+    "id": 7024,
+    "nom": "Farfuret de Hisui",
+    "type": ["Ténèbres", "Glace"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/215_f2.png",
+    "description": "Il est plus robuste et agressif que ses cousins des autres régions."
+  },
+  {
+    "gen": 8,
+    "id": 7025,
+    "nom": "Growlithe de Hisui",
+    "type": ["Feu", "Roche"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058_f2.png",
+    "description": "Touffu et résistant, il garde les lieux sacrés en groupe."
+  },
+  {
+    "gen": 8,
+    "id": 7026,
+    "nom": "Zorua de Hisui",
+    "type": ["Normal", "Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/570_f2.png",
+    "description": "Né de rancunes, il prend l'apparence de ceux qui l'ont rejeté."
+  },
+  {
+    "gen": 8,
+    "id": 7027,
+    "nom": "Zoroark de Hisui",
+    "type": ["Normal", "Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/571_f2.png",
+    "description": "Sa haine est telle qu'il peut infliger des malédictions mortelles."
+  },
+  {
+    "gen": 8,
+    "id": 7028,
+    "nom": "Fragilady de Hisui",
+    "type": ["Plante", "Combat"],
+    "image": "https://www.pokepedia.fr/images/4/4d/Fragilady_de_Hisui-LPA.png",
+    "description": "Je spécule que ce Pokémon doit ses jambes musclées à son habitat dans les montagnes couvertes de neige épaisse. La fleur sur sa couronne exhale un parfum stimulant tout être alentour."
+  },
+  {
+    "gen": 8,
+    "id": 7029,
+    "nom": "Gueriaigle de Hisui",
+    "type": ["Psy", "Vol"],
+    "image": "https://db.pokemongohub.net/_next/image?url=%2Fimages%2Fofficial%2Ffull%2F628_hisuian.webp&w=640&q=75",
+    "description": "De taille imposante, ce preux volatile chasse en lançant de terribles cris de guerre. Il propage des ondes de choc dans les lacs, puis se saisit des proies remontées à la surface."
+  },
+  {
+    "gen": 8,
+    "id": 7030,
+    "nom": "Archéduc de Hisui",
+    "type": ["Plante", "Combat"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/724_f2.png",
+    "description": "Cette forme guerrière excelle dans les arts martiaux et les tirs de précision."
+  },
+  {
+    "gen": 8,
+    "id": 7031,
+    "nom": "Colimucus de Hisui",
+    "type": ["Acier", "Dragon"],
+    "image": "https://www.pokepedia.fr/images/2/2f/Miniature_0705_Hisui_EV.png",
+    "description": "Ce Pokémon est de nature plutôt mélancolique. Je spécule que le fer contenu dans les eaux de Hisui a agi sur son mucus épidermique et a changé sa peau en carapace de métal."
+  },
+  {
+    "gen": 8,
+    "id": 7032,
+    "nom": "Muplodocus de Hisui",
+    "type": ["Acier", "Dragon"],
+    "image": "https://www.pokepedia.fr/images/e/e6/Miniature_0706_Hisui_EV.png",
+    "description": "Il peut moduler la rigidité de sa carapace de métal à volonté. Il abhorre la solitude et enrage si un être qu'il affectionne profondément l'abandonne."
+  },
+  {
+    "gen": 8,
+    "id": 7033,
+    "nom": "Clamiral de Hisui",
+    "type": ["Eau", "Ténèbres"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/503_f2.png",
+    "description": "Il manie ses coquillames comme des katanas, rapide et brutal."
+  },
+  {
+    "gen": 8,
+    "id": 7034,
+    "nom": "Bargantua de Hisui",
+    "type": ["Eau"],
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/550_f3.png",
+    "description": "Sa forme blanche ne survit que grâce à la force des âmes de ses camarades disparus."
+  },
+  {
+    "gen": 8,
+    "id": 7035,
+    "nom": "Séracrawl de Hisui",
+    "type": ["Glace", "Roche"],
+    "image": "https://www.pokepedia.fr/images/8/8d/S%C3%A9racrawl_de_Hisui-LPA.png",
+    "description": "L'armure de glace qui enveloppe sa mâchoire inférieure peut briser des rocs plus durs que l'acier. Il se meut vélocement en fendant la neige épaisse des chemins de montagne."
+  },
+  {
+    "gen": 8,
+    "id": 7036,
+    "nom": "Miaouss de Galar",
+    "type": ["Acier"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052_f2.png",
+    "description": "Ce Miaouss est plus robuste et vit dans les zones froides de Galar. Il évolue en Perrserker."
+  },
+  {
+    "gen": 8,
+    "id": 7037,
+    "nom": "Berserkatt",
+    "type": ["Acier"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/863.png",
+    "description": "Évolution de Miaouss de Galar, ce félin possède des griffes acérées et un caractère farouche."
+  },
+  {
+    "gen": 8,
+    "id": 7038,
+    "nom": "Canarticho de Galar",
+    "type": ["Combat"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083_f2.png",
+    "description": "Adapté à Galar, ce Canarticho est plus guerrier et devient Palarticho en évoluant."
+  },
+  {
+    "gen": 8,
+    "id": 7039,
+    "nom": "Palarticho",
+    "type": ["Combat"],
+    "image": "https://www.pokepedia.fr/images/thumb/a/a8/Palarticho-EB.png/800px-Palarticho-EB.png",
+    "description": "Évolution de Canarticho de Galar, expert en combat et très courageux."
+  },
+  {
+    "gen": 8,
+    "id": 7040,
+    "nom": "Ponyta de Galar",
+    "type": ["Psy"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077_f2.png",
+    "description": "Sa crinière psychique le protège et lui confère des pouvoirs mentaux. Il évolue en Galopa de Galar."
+  },
+  {
+    "gen": 8,
+    "id": 7041,
+    "nom": "Galopa de Galar",
+    "type": ["Psy", "Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078_f2.png",
+    "description": "Évolution de Ponyta de Galar, majestueux et doté de pouvoirs psychiques impressionnants."
+  },
+  {
+    "gen": 8,
+    "id": 7042,
+    "nom": "Ramoloss de Galar",
+    "type": ["Psy", "Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079_f2.png",
+    "description": "Sa forme de Galar est plus intelligente et mystérieuse. Il évolue en Flagadoss de Galar."
+  },
+  {
+    "gen": 8,
+    "id": 7043,
+    "nom": "Flagadoss de Galar",
+    "type": ["Psy", "Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080_f2.png",
+    "description": "Évolution de Ramoloss de Galar, redoutable avec ses pouvoirs spectre et psychiques."
+  },
+  {
+    "gen": 8,
+    "id": 7044,
+    "nom": "Smogogo de Galar",
+    "type": ["Acier", "Poison"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110_f2.png",
+    "description": "Cette variante de Smogogo résiste mieux aux poisons et aux attaques physiques."
+  },
+  {
+    "gen": 8,
+    "id": 7045,
+    "nom": "M. Mime de Galar",
+    "type": ["Glace", "Psy"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122_f2.png",
+    "description": "Cette forme de M. Mime est adaptée aux climats froids et évolue en M. Glaquette."
+  },
+  {
+    "gen": 8,
+    "id": 7046,
+    "nom": "M. Glaquette",
+    "type": ["Glace", "Psy"],
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/866.png",
+    "description": "Évolution de M. Mime de Galar, utilisant la glace et le mental pour ses attaques."
+  },
+  {
+    "gen": 8,
+    "id": 7047,
+    "nom": "Farfuret de Galar",
+    "type": ["Combat"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/215_f2.png",
+    "description": "Plus robuste que sa version classique, il excelle dans les combats."
+  },
+  {
+    "gen": 8,
+    "id": 7048,
+    "nom": "Limonde de Galar",
+    "type": ["Sol", "Acier"],
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/618_f2.png",
+    "description": "À force de vivre dans la boue riche en fer, son corps s'est transformé en acier très solide."
+  },
+  {
+    "gen": 8,
+    "id": 7049,
+    "nom": "Tutafeh de Galar",
+    "type": ["Spectre", "Sol"],
+    "image": "https://www.pokepedia.fr/images/1/1d/Sprite_0562_Galar_HOME.png",
+    "description": "Cette forme garde les souvenirs des humains et peut évoluer en Runerigus."
+  },
+  {
+    "gen": 8,
+    "id": 7050,
+    "nom": "Runerigus",
+    "type": ["Spectre", "Sol"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/867.png",
+    "description": "Évolution de Yamask de Galar, protégeant son territoire avec ses pouvoirs spectre."
+  },
+  {
+    "gen": 8,
+    "id": 7051,
+    "nom": "Darumacha de Galar",
+    "type": ["Glace"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/554_f2.png",
+    "description": "Sa forme de Galar est adaptée aux climats froids et évolue en Darumacho de Galar."
+  },
+  {
+    "gen": 8,
+    "id": 7052,
+    "nom": "Darumacho de Galar",
+    "type": ["Glace", "Feu"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/555_f2.png",
+    "description": "Évolution de Darumacha de Galar, il combine glace et feu pour surprendre ses adversaires."
+  },
+  {
+    "gen": 8,
+    "id": 7053,
+    "nom": "Corayon de Galar",
+    "type": ["Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/222_f2.png",
+    "description": "Il se transforme en Cursola en évoluant et absorbe les énergies des autres Pokémon."
+  },
+  {
+    "gen": 8,
+    "id": 7054,
+    "nom": "Cursola",
+    "type": ["Spectre"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/864.png",
+    "description": "Évolution de Corayon de Galar, ses attaques spectrales sont très puissantes."
+  },
+  {
+    "gen": 8,
+    "id": 7055,
+    "nom": "Zigzaton de Galar",
+    "type": ["Ténèbres", "Normal"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/263_f2.png",
+    "description": "Ruse et rapidité sont ses principales armes dans la région de Galar."
+  },
+  {
+    "gen": 8,
+    "id": 7056,
+    "nom": "Linéon de Galar",
+    "type": ["Ténèbres", "Normal"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/264_f2.png",
+    "description": "Évolution de Zigzaton de Galar, il devient plus agressif et défend son territoire."
+  },
+  {
+    "gen": 8,
+    "id": 7057,
+    "nom": "Ixon",
+    "type": ["Ténèbres", "Normal"],
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/862.png",
+    "description": "Évolution finale de Linéon de Galar, il utilise ses griffes et sa queue pour intimider ses adversaires."
+  },{
+    "gen": 8,
+    "id": 7058,
+    "nom": "Électhor de Galar",
+    "type": ["Combat", "Vol"],
+    "image": "https://www.pokepedia.fr/images/thumb/8/83/%C3%89lecthor_de_Galar-EB.png/800px-%C3%89lecthor_de_Galar-EB.png",
+    "description": "Électhor est le nom qui a été choisi pour ce Pokémon dont les plumes produisent des crépitements électriques si on les frotte."
+  },{
+    "gen": 8,
+    "id": 7059,
+    "nom": "Sulfura de Galar",
+    "type": ["Ténèbres", "Vol"],
+    "image": "https://www.pokebip.com/pokedex-images/300/10223.png?v=ev-blueberry",
+    "description": "Son aura maléfique semblable à un brasier peut consumer intégralement l'âme de quiconque en est la cible."
+  },{
+    "gen": 1,
+    "id": 7060,
+    "nom": "Tauros de Paldea",
+    "type": ["Combat"],
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/128_f4.png",
+    "description": "Ce Pokémon aux muscles développés excelle en combat rapproché. Il vise le point faible de ses adversaires avec ses courtes cornes."
+  },{
+    "gen": 2,
+    "id": 7061,
+    "nom": "Axoloto de Paldea",
+    "type": ["Poison", "Sol"],
+    "image": "https://www.pokepedia.fr/images/b/bf/Miniature_0194_Paldea_EV.png",
+    "description": "Depuis qu'une dispute territoriale l'a contraint à vivre sur la terre ferme, il protège son corps en le recouvrant d'un fluide toxique."
   }
-
-
-
-
-
-
-
-
-
-
-
 
 ]
 
