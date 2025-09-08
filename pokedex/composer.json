@@ -1,11 +1,15 @@
 {
-    "name": "mon-projet/pokemon",
-    "description": "Projet Pokémon avec router et autoload PSR-4",
-    "type": "project",
-    "require": {},
+    "name": "jury-1/pokedex",
     "autoload": {
         "psr-4": {
-            "Controllers\\": "Controllers/"
+            "App\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "JordanTrehin76610",
+            "email": "jordantrehinpro@gmail.com"
+        }
+    ],
+    "require": {}
 }

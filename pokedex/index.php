@@ -1,9 +1,6 @@
 <?php 
-require_once 'autoload.php';
+require_once __DIR__ . '/vendor/autoload.php';
 require_once 'router.php';
-// use Core\routerClass;
-// $router = new Router();
-// $router->run($_GET['url'] ?? 'home');
 ?>
 
 <!DOCTYPE html>
@@ -13,6 +10,9 @@ require_once 'router.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokédex</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="src/style/style.css">
 </head>
 
 <body>

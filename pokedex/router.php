@@ -1,10 +1,10 @@
 <?php 
-use Controllers\HomeController;
-use Controllers\DetailsController;
-use Controllers\TypeController;
-use Controllers\GenController;
-use Controllers\NameController;
-use Controllers\IdController;
+use App\Controllers\HomeController;
+use App\Controllers\DetailsController;
+use App\Controllers\TypeController;
+use App\Controllers\GenController;
+use App\Controllers\NameController;
+use App\Controllers\IdController;
 
 if (!isset($_GET['url']) || empty($_GET['url'])) { //Si pas d'url = go home
     $url[] = 'home';
