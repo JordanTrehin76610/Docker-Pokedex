@@ -7008,7 +7008,7 @@
     "id": 6000,
     "nom": "Pikachu Gigamax",
     "type": ["Électrik"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025_f3.png",
+    "image": "https://www.pokepedia.fr/images/thumb/7/73/Pikachu_%28Gigamax%29-EB.png/250px-Pikachu_%28Gigamax%29-EB.png",
     "description": "Son corps redevient dodu comme à l’époque, et il libère une électricité colossale."
   },
   {
@@ -7016,7 +7016,7 @@
     "id": 6001,
     "nom": "Évoli Gigamax",
     "type": ["Normal"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133_f3.png",
+    "image": "https://www.pokepedia.fr/images/3/34/%C3%89voli_%28Gigamax%29-EB.png",
     "description": "Son pelage devient incroyablement touffu, et il charme quiconque le voit."
   },
   {
@@ -7040,7 +7040,7 @@
     "id": 6004,
     "nom": "Papilusion Gigamax",
     "type": ["Insecte", "Vol"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012_f3.png",
+    "image": "https://www.pokebip.com/pokedex-images/300/10171.png?v=ev-blueberry",
     "description": "Ses ailes lumineuses paralysent et endorment ceux qui les fixent trop longtemps."
   },
   {
@@ -7048,7 +7048,7 @@
     "id": 6005,
     "nom": "Dracaufeu Gigamax",
     "type": ["Feu", "Vol"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f3.png",
+    "image": "https://www.pokepedia.fr/images/8/8b/Dracaufeu_%28Gigamax%29-EB.png",
     "description": "Ses flammes prennent la forme d’ailes colossales embrasant le ciel entier."
   },
   {
@@ -7056,7 +7056,7 @@
     "id": 6006,
     "nom": "Mackogneur Gigamax",
     "type": ["Combat"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068_f3.png",
+    "image": "https://www.pokepedia.fr/images/8/8f/Mackogneur_%28Gigamax%29-EB.png",
     "description": "Ses bras deviennent gigantesques, capables de réduire des montagnes en poussière."
   },
   {
@@ -7072,7 +7072,7 @@
     "id": 6008,
     "nom": "Krabboss Gigamax",
     "type": ["Eau"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099_f3.png",
+    "image": "https://www.pokepedia.fr/images/1/1f/Krabboss_%28Gigamax%29-EB.png",
     "description": "Ses pinces atteignent une taille monstrueuse et libèrent des vagues destructrices."
   },
   {
@@ -7080,7 +7080,7 @@
     "id": 6009,
     "nom": "Lokhlass Gigamax",
     "type": ["Eau", "Glace"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131_f3.png",
+    "image": "https://www.pokepedia.fr/images/c/c9/Sprite_0131_Gigamax_HOME.png",
     "description": "Son dos devient un champ de glace qui résonne comme un orchestre."
   },
   {
@@ -7088,23 +7088,23 @@
     "id": 6010,
     "nom": "Ronflex Gigamax",
     "type": ["Normal"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143_f3.png",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/143_f2.png",
     "description": "La végétation pousse sur son ventre, créant un véritable écosystème."
   },
   {
     "gen": 8,
     "id": 6011,
-    "nom": "Rongrigou Gigamax",
+    "nom": "Miaouss Gigamax",
     "type": ["Normal"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/820_f3.png",
-    "description": "Il amasse des provisions gigantesques qu’il protège férocement."
+    "image": "https://www.pokepedia.fr/images/thumb/f/fd/Miaouss_%28Gigamax%29-EB.png/250px-Miaouss_%28Gigamax%29-EB.png",
+    "description": "On pense que le motif qui apparaît sur la grande pièce ornant son front permettrait de comprendre le phénomène Dynamax."
   },
   {
     "gen": 8,
     "id": 6012,
     "nom": "Corvaillus Gigamax",
     "type": ["Vol", "Acier"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/823_f3.png",
+    "image": "https://www.pokebip.com/pokedex-images/300-shiny/10182.png?v=ev-blueberry",
     "description": "Ses ailes blindées lui permettent de dominer le ciel comme une forteresse volante."
   },
   {
@@ -7112,7 +7112,7 @@
     "id": 6013,
     "nom": "Torgamord Gigamax",
     "type": ["Eau", "Roche"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/834_f3.png",
+    "image": "https://www.pokepedia.fr/images/thumb/f/f3/Torgamord_%28Gigamax%29-EB.png/1200px-Torgamord_%28Gigamax%29-EB.png",
     "description": "Sa mâchoire énorme devient un piège implacable pour ses ennemis."
   },
   {
@@ -7120,7 +7120,7 @@
     "id": 6014,
     "nom": "Monthracite Gigamax",
     "type": ["Roche", "Feu"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/839_f3.png",
+    "image": "https://www.pokepedia.fr/images/a/ab/Monthracite_%28Gigamax%29-EB.png",
     "description": "Son corps devient un volcan ambulant crachant des torrents de lave."
   },
   {
@@ -7128,7 +7128,7 @@
     "id": 6015,
     "nom": "Dunaconda Gigamax",
     "type": ["Sol"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/844_f3.png",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/844_f2.png",
     "description": "Son corps enroulé crée une tornade de sable gigantesque."
   },
   {
@@ -7136,7 +7136,7 @@
     "id": 6016,
     "nom": "Charmilly Gigamax",
     "type": ["Fée"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/869_f3.png",
+    "image": "https://www.pokepedia.fr/images/c/c2/Sprite_0869_Gigamax_HOME.png",
     "description": "Il déchaîne une tempête de crème sucrée sur ses adversaires."
   },
   {
@@ -7152,16 +7152,16 @@
     "id": 6018,
     "nom": "Pachyradjah Gigamax",
     "type": ["Acier"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/879_f3.png",
+    "image": "https://www.pokepedia.fr/images/0/04/Sprite_0879_Gigamax_HOME.png",
     "description": "Sa trompe se transforme en un gigantesque pilier d’acier."
   },
   {
     "gen": 8,
     "id": 6019,
-    "nom": "Charibari Gigamax",
-    "type": ["Électrik"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/870_f3.png",
-    "description": "Son corps en chaîne électrifie toute la zone alentour."
+    "nom": "Melmetal Gigamax",
+    "type": ["Acier"],
+    "image": "https://www.pokebip.com/pokedex-images/300/10181.png?v=ev-blueberry",
+    "description": "Dans la mythologie d'une région lointaine, celui que l'on considérait comme le premier géant était en réalité un Melmetal sous sa forme Gigamax."
   },
   {
     "gen": 8,
@@ -7184,7 +7184,7 @@
     "id": 6022,
     "nom": "Sorcilence Gigamax",
     "type": ["Psy"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/876_f3.png",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/858_f2.png",
     "description": "Son aura psychique s’étend sur des kilomètres."
   },
   {
@@ -7192,7 +7192,7 @@
     "id": 6023,
     "nom": "Angoliath Gigamax",
     "type": ["Insecte"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/826_f3.png",
+    "image": "https://www.pokepedia.fr/images/c/c6/Angoliath_%28Gigamax%29-EB.png",
     "description": "Il tisse des fils gigantesques qui couvrent tout le champ de bataille."
   },
   {
@@ -7200,7 +7200,7 @@
     "id": 6024,
     "nom": "Astronelle Gigamax",
     "type": ["Psy"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/856_f3.png",
+    "image": "https://www.pokepedia.fr/images/b/b6/Sprite_0826_Gigamax_HOME.png",
     "description": "Son chapeau devient une tour psychique irradiant des ondes mentales."
   },
   {
@@ -7208,7 +7208,7 @@
     "id": 6025,
     "nom": "Miasmax Gigamax",
     "type": ["Poison"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/569_f3.png",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/569_f2.png",
     "description": "Son corps s’agrandit en une décharge monstrueuse et toxique."
   },
   {
@@ -7216,7 +7216,7 @@
     "id": 6026,
     "nom": "Scolocendre Gigamax",
     "type": ["Feu", "Insecte"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/851_f3.png",
+    "image": "https://www.pokepedia.fr/images/f/f4/Sprite_0851_Gigamax_chromatique_HOME.png",
     "description": "Son corps devient un gigantesque serpent de flammes."
   },
   {
@@ -7224,7 +7224,7 @@
     "id": 6027,
     "nom": "Pomdrapi Gigamax",
     "type": ["Plante", "Dragon"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/840_f3.png",
+    "image": "https://www.pokepedia.fr/images/c/c4/Pomdrapi_%28Gigamax%29-EB.png",
     "description": "Son corps fruitier s’élargit et libère des arômes enivrants."
   },
   {
@@ -7232,7 +7232,7 @@
     "id": 6028,
     "nom": "Lézargus Gigamax",
     "type": ["Eau"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/818_f3.png",
+    "image": "https://www.pokepedia.fr/images/thumb/6/61/L%C3%A9zargus_%28Gigamax%29-EB.png/250px-L%C3%A9zargus_%28Gigamax%29-EB.png",
     "description": "Il utilise un fusil d’eau géant taillé dans sa propre énergie."
   },
   {
@@ -7240,7 +7240,7 @@
     "id": 6029,
     "nom": "Pyrobut Gigamax",
     "type": ["Feu"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/815_f3.png",
+    "image": "https://www.pokepedia.fr/images/thumb/7/7e/Pyrobut_%28Gigamax%29-EB.png/1200px-Pyrobut_%28Gigamax%29-EB.png",
     "description": "Il joue au football avec un ballon de feu colossal."
   },
   {
@@ -7248,7 +7248,7 @@
     "id": 6030,
     "nom": "Gorythmic Gigamax",
     "type": ["Plante"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/812_f3.png",
+    "image": "https://www.pokebip.com/pokedex-images/300/10212.png?v=ev-blueberry",
     "description": "Son tambour devient une forêt entière résonnant de percussions."
   },
   {
@@ -7256,7 +7256,7 @@
     "id": 6031,
     "nom": "Duralugon Gigamax",
     "type": ["Acier", "Dragon"],
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/884_f3.png",
+    "image": "https://www.pokepedia.fr/images/e/e8/Duralugon_%28Gigamax%29-EB.png",
     "description": "Il prend l’apparence d’un gigantesque gratte-ciel d’acier."
   }
 

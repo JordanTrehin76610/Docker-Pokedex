@@ -18,8 +18,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     if(!empty($_POST['prenom'])) {
-
         $redirection = 'index.php?url=prenom/' . ucfirst($_POST["prenom"]);
+        header("Location: $redirection");
+        exit;
+    }
+
+    if(!empty($_POST['id'])) {
+        $redirection = 'index.php?url=id/' . $_POST["id"];
         header("Location: $redirection");
         exit;
     }
@@ -92,17 +97,24 @@ $_POST['generation'] = 'Toutes';
                     </select>
                 </div>
                 <div class="col text-start">
+                    <label for="id">ID du pokémon:</label>
+                    <input type="number" class="form-control mt-2" id="id" name="id" placeholder="">
+                </div>
+                <div class="col text-start">
                     <label for="prenom">Nom du pokémon:</label>
                     <input type="text" class="form-control mt-2" id="prenom" name="prenom" placeholder="">
                 </div>
-                <div class="col">
+                <div class="col mt-2">
                     <button type="submit" class="btn btn-primary mt-4">Rechercher</button>
+                </div>
+                <div class="col mt-2">
+                    <a href="index.php" class="btn btn-primary mt-4">Ré-initialiser</a>
                 </div>
             </div>
         </div>
     </form>
 
-    <div class="container text-center">
+    <div class="container text-center mb-5">
         <div class="row">
             <?php foreach ($allPokemons as $pokemon) { ?>
             <!-- <?php require __DIR__ . "/../style/style.php"; ?> Influence la variable $color et le type -->

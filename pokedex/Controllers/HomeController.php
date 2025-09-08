@@ -1,11 +1,13 @@
 <?php 
-require_once __DIR__ . '/../models/PokemonModel.php';
+namespace Controllers;
+
+use Models\PokemonModel;
 
 class HomeController
 {
-    
+
     private PokemonModel $model;
-    
+
     public function index() {
         $this->model = new PokemonModel();
         $allPokemons = $this->model->getAll(); // On utilise le modèle, la variable ne sera utilisé que dans la vue

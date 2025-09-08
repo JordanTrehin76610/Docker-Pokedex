@@ -1,9 +1,10 @@
 <?php 
-require_once 'controller/HomeController.php';
-require_once 'controller/DetailsController.php';
-require_once 'controller/TypeController.php';
-require_once 'controller/GenController.php';
-require_once 'controller/NameController.php';
+use Controllers\HomeController;
+use Controllers\DetailsController;
+use Controllers\TypeController;
+use Controllers\GenController;
+use Controllers\NameController;
+use Controllers\IdController;
 
 if (!isset($_GET['url']) || empty($_GET['url'])) { //Si pas d'url = go home
     $url[] = 'home';
@@ -55,6 +56,17 @@ switch ($url[0]) {
             $controller = new NameController();
             $controller->appel($pokemonName);
         }
+        break;
+    case "id":
+        $pokemonId = $url[1];
+        if (!is_numeric($pokemonId) && $pokemonId <= 0 && $pokemonId >= 1025 && $pokemonId >= 4000 && $pokemonId <= 4100 && $pokemonId >= 6000 && $pokemonId <= 6100 && $pokemonId >= 7000 && $pokemonId <= 7200) {
+            header("Location: erreur.php"); // Redirection si l'id n'est pas un nombre ou est négatif ou supérieur au nombre de pokémon
+            exit;
+        } else {
+            $controller = new IdController();
+            $controller->getById($pokemonId);
+        }
+        break;
 }
 
 ?>

@@ -1,4 +1,5 @@
 <?php 
+namespace Models;
 
 class PokemonModel
 {
@@ -15,7 +16,7 @@ class PokemonModel
         $pokedex = json_decode($json, true);
         foreach ($pokedex as $pokemon){
 
-            if ($pokemon['id'] == $id){
+            if (strstr($pokemon['id'], $id)){
 
                 $filtered[] = $pokemon;
 

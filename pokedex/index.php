@@ -1,5 +1,7 @@
 <?php 
-require_once __DIR__ . "/router.php"
+// require_once __DIR__ . "/router.php"
+require_once 'autoload.php';
+require_once 'router.php';
 ?>
 
 <!DOCTYPE html>
