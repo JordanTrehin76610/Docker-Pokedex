@@ -117,7 +117,7 @@ $_POST['generation'] = 'Toutes';
     <div class="container text-center mb-5">
         <div class="row">
             <?php foreach ($allPokemons as $pokemon) { ?>
-            <!-- <?php require __DIR__ . "/../style/style.php"; ?> Influence la variable $color et le type -->
+            <?php require __DIR__ . "/../style/style.php"; ?>
             <div class="col-4 border border-dark <?= $color ?> ">
                 <a href="index.php?url=details/<?= $pokemon['id'] ?>" class="text-decoration-none <?= $color ?>">
                     <div class="row">

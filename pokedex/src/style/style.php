@@ -8,10 +8,10 @@ if (isset($pokemon)) {
     // Ici tu mets tout le code qui dépend de $pokemon
     switch ($pokemon['type'][0]) {
     case 'Feu':
-        $icone0 = '../img/typeFeu.png';
+        $icone0 = '/img/typeFeu.png';
         break;
     case 'Eau':
-        $icone0 = '../img/typeEau.png';
+        $icone0 = '/img/typeEau.png';
         break;
     case 'Plante':
         $icone0 = '../img/typePlante.png';
